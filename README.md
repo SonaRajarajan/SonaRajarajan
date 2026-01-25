@@ -52,8 +52,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonaRajarajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true"
+    height="150"
+    alt="Most Used Languages"
+  />
+  <br/>
   <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&hide_border=true"
   height="300"
