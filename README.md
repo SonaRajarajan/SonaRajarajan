@@ -54,7 +54,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonaRajarajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&radius=16&theme=redical&area=true&order=5&custom_title=SonaRajarajan's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0d1117&color=8b5cf6&line=22c55e&point=ffffff&area=true&hide_border=true"
+  height="300"
+  alt="activity-graph graph"
+/>
+
 </div>
 
 ###
