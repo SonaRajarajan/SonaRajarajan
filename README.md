@@ -54,11 +54,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonaRajarajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0d1117&color=8b5cf6&line=22c55e&point=ffffff&area=true&hide_border=true"
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=e5e7eb&area=true&area_color=7c3aed&hide_border=true"
   height="300"
   alt="activity-graph graph"
 />
+
 
 </div>
 
