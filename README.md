@@ -10,16 +10,24 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
 
 <br clear="both">
 
-<h1 align="center" style="color:#8b5cf6; font-family: monospace; font-size:3rem;">
+<h1 align="center" style="
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: monospace;
+  background: linear-gradient(90deg, #22c55e, #8b5cf6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
   Sona Rajarajan
 </h1>
 
-
 ###
+
 
 <br clear="both">
 
