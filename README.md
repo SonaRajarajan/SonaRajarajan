@@ -14,15 +14,15 @@
 
 <br clear="both">
 
-<!-- ================= GLITCH STYLE ================= -->
+<!-- ===== GLITCH TITLE STYLE ===== -->
 <style>
 .glitch {
   position: relative;
   font-size: 3rem;
   font-weight: 700;
   font-family: monospace;
-  text-transform: uppercase;
   color: #ffffff;
+  text-transform: uppercase;
 }
 
 .glitch::before,
@@ -36,14 +36,14 @@
 
 .glitch::before {
   color: #22c55e;
-  animation: glitchTop 2.5s infinite linear alternate-reverse;
   clip-path: inset(0 0 55% 0);
+  animation: glitchTop 2.5s infinite linear alternate-reverse;
 }
 
 .glitch::after {
   color: #8b5cf6;
-  animation: glitchBottom 1.8s infinite linear alternate-reverse;
   clip-path: inset(55% 0 0 0);
+  animation: glitchBottom 1.8s infinite linear alternate-reverse;
 }
 
 @keyframes glitchTop {
@@ -111,12 +111,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/> <br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonaRajarajan&layout=compact&langs_count=5&theme=dracula" height="150"/> <br>
-
   <img src="https://github-profile-trophy.vercel.app?username=SonaRajarajan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150"/> <br>
-
-  <!-- FIXED ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" height="300"/>
 </div>
 
