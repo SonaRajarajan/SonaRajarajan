@@ -20,6 +20,7 @@
   font-weight: 700;
   font-family: monospace;
   background: linear-gradient(90deg, #22c55e, #8b5cf6);
+  color: blueviolet
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 ">
