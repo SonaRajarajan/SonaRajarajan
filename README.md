@@ -51,16 +51,6 @@
 ###
 
 <br clear="both">
-
-  <div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonaRajarajan&layout=donut&theme=radical&hide_border=true&count_private=true"
-    height="260"
-    alt="Language Donut Chart"
-  />
-</div>
-
-
   <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&hide_border=true"
   height="300"
