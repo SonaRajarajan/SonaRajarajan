@@ -52,12 +52,13 @@
 
 <br clear="both">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true"
-    height="150"
-    alt="Most Used Languages"
-  />
-  <br/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Python-ML%20%26%20AI-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-MERN-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/C-Systems-blue?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r"/>
+</p>
+
   <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&hide_border=true"
   height="300"
