@@ -2,13 +2,6 @@
   <img height="275" src="https://cdn.jumpshare.com/preview/5mcI1W2vgtRKG-TsC9XGJ9rciGZGIep8N1EeM2FV9wllFGCLTjkpaByIAC5X_vlsMHbN-5_GOzwb1qmF7nu4pbbWNV2KS_78CT7JMUudnEA"  />
 </div>
 
-TsC9XGJ9rciGZGIep8N1EeM2FV9wllFGCLTjkpaByIAC5X_vlsMHbN-5_GOzwb1qmF7nu4pbbWNV2KS_78CT7JMUudnEA"  />
-</div>
-
-###
-5_GOzwb1qmF7nu4pbbWNV2KS_78CT7JMUudnEA"  />
-</div>
-
 ###
 
 <picture>
@@ -17,20 +10,13 @@ TsC9XGJ9rciGZGIep8N1EeM2FV9wllFGCLTjkpaByIAC5X_vlsMHbN-5_GOzwb1qmF7nu4pbbWNV2KS_
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
 <br clear="both">
 
-<h1 align="center">
-  <span style="color:#8b5cf6; font-family:monospace; font-weight:700;">
-    Sona Rajarajan
-  </span>
-</h1>
-
+<h1 align="center">Sona Rajarajan</h1>
 
 ###
-
 
 <br clear="both">
 
