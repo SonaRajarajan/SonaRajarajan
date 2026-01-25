@@ -14,7 +14,10 @@
 
 <br clear="both">
 
-<h1 align="center">Sona Rajarajan</h1>
+<h1 align="center" style="color:#8b5cf6; font-family: monospace; font-size:3rem;">
+  Sona Rajarajan
+</h1>
+
 
 ###
 
