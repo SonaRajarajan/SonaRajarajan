@@ -15,17 +15,12 @@
 
 <br clear="both">
 
-<h1 align="center" style="
-  font-size: 3rem;
-  font-weight: 700;
-  font-family: monospace;
-  background: linear-gradient(90deg, #22c55e, #8b5cf6);
-  color: blueviolet
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-">
-  Sona Rajarajan
+<h1 align="center">
+  <span style="color:#8b5cf6; font-family:monospace; font-weight:700;">
+    Sona Rajarajan
+  </span>
 </h1>
+
 
 ###
 
