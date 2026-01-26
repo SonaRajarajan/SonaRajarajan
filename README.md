@@ -85,7 +85,7 @@ I build AI-driven systems that transform complex data into measurable real-world
 
 <br clear="both">
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&title_color=7c3aed&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&title_color=facc15&hide_border=true"
   height="300"
   alt="activity-graph graph"
 />
