@@ -22,7 +22,7 @@
 I build AI-driven systems that transform complex data into measurable real-world impact.
 </p>
 
-
+<hr />
 <h2 align="center">Technical Overview</h2>
 
 <div align="center">
