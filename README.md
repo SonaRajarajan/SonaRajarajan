@@ -14,7 +14,6 @@
 
 <hr />
 <br clear="both">
-
 <h1 align="center">Sona Rajarajan</h1>
 
 <p align="center"><b>ML & AI Developer</b></p>
@@ -23,38 +22,38 @@
 I build AI-driven systems that transform complex data into measurable real-world impact.
 </p>
 
-<hr />
+
 <h2 align="center">Technical Overview</h2>
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Metric</th>
-      <th>Count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AI / ML Projects</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>End-to-End Systems</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Research-Oriented Works</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Analytics Dashboards</td>
-      <td>5</td>
-    </tr>
-  </tbody>
-</table>
-
+  <table>
+    <thead>
+      <tr>
+        <th>Metric</th>
+        <th>Count</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>AI / ML Projects</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>End-to-End Systems</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Research-Oriented Works</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Analytics Dashboards</td>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 
 <br clear="both">
