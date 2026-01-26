@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h1 align="center">Sona Rajarajan</h1>
+<h1 align="center">𝗦𝗼𝗻𝗮 𝗥𝗮𝗷𝗮𝗿𝗮𝗷𝗮𝗻</h1>
 
 ###
 
