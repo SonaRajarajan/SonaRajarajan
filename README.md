@@ -14,24 +14,48 @@
 
 <br clear="both">
 
-<h1 align="center">𝗦𝗼𝗻𝗮 𝗥𝗮𝗷𝗮𝗿𝗮𝗷𝗮𝗻</h1>
+<h1 align="center">Sona Rajarajan</h1>
 
-###
+<p align="center"><b>ML & AI Developer</b></p>
 
-<br clear="both">
+<p align="center">
+I build AI-driven systems that transform complex data into measurable real-world impact.
+</p>
 
-<h3 align="center">ML & AI Developer<br><br><br>I build AI-driven systems that transform complex data into measurable real-world impact.</h3>
+<hr />
 
-## Technical Overview
+<h2 align="center">Technical Overview</h2>
+<div align="center">
 
-| Metric | Count |
-|------|------|
-| AI / ML Projects | 6 |
-| End-to-End Systems | 4 |
-| Research-Oriented Works | 3 |
-| Analytics Dashboards | 5 |
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI / ML Projects</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>End-to-End Systems</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Research-Oriented Works</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Analytics Dashboards</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
 
-###
+</div>
+
 
 <br clear="both">
 
