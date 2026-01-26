@@ -26,8 +26,7 @@ I build AI-driven systems that transform complex data into measurable real-world
 <hr />
 <h2 align="center">Technical Overview</h2>
 
-<p align="center">
-
+<div align="center">
 <table>
   <thead>
     <tr>
