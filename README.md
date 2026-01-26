@@ -90,15 +90,10 @@ I build AI-driven systems that transform complex data into measurable real-world
   alt="activity-graph graph"
 />
 
-
-###
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Visits-295-7C3AED?style=for-the-badge&logo=github&left_color=darkslateblue&right_color=blueviolet" />
+  <img src="https://img.shields.io/badge/Total%20Visits-295-8A2BE2?style=for-the-badge&labelColor=483D8B&logo=github" />
 </p>
 
-
-###
 
 <div align="center">
   <a href="sonavrajarajan@gmail.com" target="_blank">
