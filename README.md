@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h1 align="center">Sona Rajarajan</h1>
+<h1 align="center" style="color: #A855F7;">Sona Rajarajan</h1>
 
 ###
 
