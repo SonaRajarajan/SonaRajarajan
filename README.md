@@ -95,9 +95,10 @@ I build AI-driven systems that transform complex data into measurable real-world
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SonaRajarajan.SonaRajarajan&left_color=darkslateblue&right_color=blueviolet&left_text=Total%20Visits"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Visits-295-7C3AED?style=for-the-badge&logo=github" />
+</p>
+
 
 ###
 
