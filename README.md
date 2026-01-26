@@ -14,7 +14,10 @@
 
 <br clear="both">
 
-<h1 align="center" style="color: #A855F7;">Sona Rajarajan</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Sona%20Rajarajan&width=800&height=150&fontSize=48&fontColor=8B5CF6&backgroundColor=0D1117" />
+</p>
+
 
 ###
 
