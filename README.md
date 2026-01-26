@@ -98,15 +98,17 @@ I build AI-driven systems that transform complex data into measurable real-world
 </p>
 
 
-<div align="center">
+  <br><br>
+
+  <!-- Contact Buttons -->
   <a href="https://mail.google.com/mail/?view=cm&to=sonavrajarajan@gmail.com" target="_blank">
-  Email Me
-</a>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sona-rajarajan-186445278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/sona-rajarajan/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </div>
 
 ###
