@@ -92,23 +92,30 @@ I build AI-driven systems that transform complex data into measurable real-world
 
 
 
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Visits-295-8A2BE2?style=for-the-badge&labelColor=483D8B&logo=github" />
-</p>
-
+  <!-- Total Visits -->
+  <img
+    src="https://img.shields.io/badge/Total%20Visits-295-8A2BE2?style=for-the-badge&labelColor=483D8B&logo=github"
+    alt="Total Visits"
+  />
 
   <br><br>
 
   <!-- Contact Buttons -->
   <a href="https://mail.google.com/mail/?view=cm&to=sonavrajarajan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/sona-rajarajan/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
 </div>
 
-###
