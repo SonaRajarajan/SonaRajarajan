@@ -22,6 +22,15 @@
 
 <h3 align="center">ML & AI Developer<br><br><br>I build AI-driven systems that transform complex data into measurable real-world impact.</h3>
 
+## Technical Overview
+
+| Metric | Count |
+|------|------|
+| AI / ML Projects | 6 |
+| End-to-End Systems | 4 |
+| Research-Oriented Works | 3 |
+| Analytics Dashboards | 5 |
+
 ###
 
 <br clear="both">
