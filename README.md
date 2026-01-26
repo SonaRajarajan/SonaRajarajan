@@ -14,9 +14,7 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="text1=Sona%20Rajarajan&width=800&height=150&fontSize=48&fontColor=8B5CF6&backgroundColor=0D1117" />
-</p>
+<h1 align="center">Sona Rajarajan</h1>
 
 
 ###
