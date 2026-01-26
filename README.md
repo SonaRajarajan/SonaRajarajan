@@ -94,7 +94,7 @@ I build AI-driven systems that transform complex data into measurable real-world
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Visits-295-7C3AED?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Visits-295-7C3AED?style=for-the-badge&logo=github&left_color=darkslateblue&right_color=blueviolet" />
 </p>
 
 
