@@ -10,10 +10,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <hr />
-<br clear="both">
+
 <h1 align="center">Sona Rajarajan</h1>
 
 <p align="center"><b>ML & AI Developer</b></p>
@@ -22,6 +20,8 @@
 I build AI-driven systems that transform complex data into measurable real-world impact.
 </p>
 
+<!-- LINE ONLY ABOVE TECHNICAL OVERVIEW -->
+<hr />
 
 <h2 align="center">Technical Overview</h2>
 
@@ -53,6 +53,7 @@ I build AI-driven systems that transform complex data into measurable real-world
     </tbody>
   </table>
 </div>
+
 
 
 
