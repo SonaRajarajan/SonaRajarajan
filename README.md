@@ -17,7 +17,6 @@
 
 <h1 align="center">Sona Rajarajan</h1>
 
-<hr />
 <p align="center"><b>ML & AI Developer</b></p>
 
 <p align="center">
