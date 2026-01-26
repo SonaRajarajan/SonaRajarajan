@@ -16,13 +16,6 @@
 
 <h1 align="center">Sona Rajarajan</h1>
 
-<p align="center"><b>ML & AI Developer</b></p>
-
-<p align="center">
-I build AI-driven systems that transform complex data into measurable real-world impact.
-</p>
-
-
 
 ###
 
