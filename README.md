@@ -91,8 +91,6 @@ I build AI-driven systems that transform complex data into measurable real-world
     alt="activity-graph graph"
   />
 
-  <!-- Small spacing -->
-  <br>
 
   <!-- Total Visits -->
   <img
@@ -100,8 +98,7 @@ I build AI-driven systems that transform complex data into measurable real-world
     alt="Total Visits"
   />
 
-  <!-- Very small spacing -->
-  <br>
+
 
   <!-- Contact Buttons -->
   <a href="https://mail.google.com/mail/?view=cm&to=sonavrajarajan@gmail.com" target="_blank">
