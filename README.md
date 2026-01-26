@@ -16,7 +16,6 @@
 
 <h1 align="center">Sona Rajarajan</h1>
 
-
 ###
 
 <br clear="both">
