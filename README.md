@@ -14,10 +14,14 @@
 
 <br clear="both">
 
-<h1 align="center"><strong>Sona Rajarajan</strong></h1>
+<h1 align="center">Sona Rajarajan</h1>
+
+<p align="center"><b>ML & AI Developer</b></p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&hide=prs,issues,stars&theme=radical" />
+I build AI-driven systems that transform complex data into measurable real-world impact.
 </p>
+
 
 
 ###
