@@ -82,17 +82,17 @@ I build AI-driven systems that transform complex data into measurable real-world
 </div>
 
 ###
-
-<br clear="both">
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&from=2025-12-18&to=2026-2-1&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&title_color=2DD4BF&hide_border=true"
-  height="300"
-  alt="activity-graph graph"
-/>
-
-
-
 <div align="center">
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&title_color=2DD4BF&hide_border=true"
+    height="300"
+    alt="activity-graph graph"
+  />
+
+  <!-- Small spacing -->
+  <br>
 
   <!-- Total Visits -->
   <img
@@ -100,7 +100,8 @@ I build AI-driven systems that transform complex data into measurable real-world
     alt="Total Visits"
   />
 
-  <br><br>
+  <!-- Very small spacing -->
+  <br>
 
   <!-- Contact Buttons -->
   <a href="https://mail.google.com/mail/?view=cm&to=sonavrajarajan@gmail.com" target="_blank">
@@ -118,4 +119,3 @@ I build AI-driven systems that transform complex data into measurable real-world
   </a>
 
 </div>
-
