@@ -16,7 +16,7 @@
 
 <h1 align="center"><strong>Sona Rajarajan</strong></h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&hide=prs,issues,stars&theme=radical" />
 </p>
 
 
