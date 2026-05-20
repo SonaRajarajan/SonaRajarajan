@@ -1,93 +1,92 @@
 <div align="center">
 
-# Sona Rajarajan ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,25:38bdf8,50:a78bfa,75:f472b6,100:facc15&height=230&section=header&text=Sona%20Rajarajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=58&descSize=18"/>
 
-### `AI Systems` • `Data Engineering` • `Cloud-Native Intelligence`
+# ⚡ chaotic good engineer energy
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+actually+ship...;Designing+real-time+data+platforms...;Turning+analytics+into+intelligent+products...;ML+%2B+Data+Engineering+%2B+Cloud+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=building+AI+systems+that+actually+ship...;training+models+%2B+breaking+production...;streaming+data+like+it's+spotify...;cloud-native+everything.;lowkey+obsessed+with+real-time+systems..." />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Open To Work](https://img.shields.io/badge/Open%20to-ML%20%7C%20Data%20Engineering%20Roles-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Open%20to-ML%20%7C%20Data%20Engineering%20Roles-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=4ade80&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🌌 About Me
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# 🌌 whoami
 
 ```yaml
 name: Sona Rajarajan
-education: Integrated M.Tech — CSE with Business Analytics
-university: VIT Chennai
-graduation: 2027
+role: AI Systems Engineer
+education:
+  degree: Integrated M.Tech
+  specialization: CSE with Business Analytics
+  university: VIT Chennai
+  graduating: 2027
 
-currently_building:
-  - AI-powered analytics systems
-  - Streaming data infrastructures
-  - Intelligent automation workflows
-  - Real-time IoT platforms
+currently_doing:
+  - building ML systems
+  - engineering data pipelines
+  - experimenting with AI infra
+  - surviving Kafka configs
 
-interests:
-  - Machine Learning
-  - Data Engineering
-  - Distributed Systems
-  - Cloud Infrastructure
-  - Applied AI
+core_interests:
+  - machine learning
+  - data engineering
+  - streaming architectures
+  - distributed systems
+  - cloud-native systems
 ```
 
-I love building systems where **AI meets engineering**.
+<br/>
 
-Not just models.  
-Not just dashboards.  
-But scalable systems that ingest, process, predict, automate, and actually *run*.
+> I build systems where **AI meets engineering** ⚡  
+> not just notebooks. not just dashboards.  
+> but systems that ingest → process → predict → automate → scale.
 
 ---
 
-# ⚡ Engineering Snapshot
+# 🚀 engineering stats.exe
 
 <div align="center">
 
-| 🚀 Projects | 💼 Internships | 📚 Research Works | 🧠 Patent |
+<img src="https://github-profile-trophy.vercel.app/?username=SonaRajarajan&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+<div align="center">
+
+| 🧠 AI Projects | ☁️ Internships | 📚 Research | 📋 Patent |
 |:---:|:---:|:---:|:---:|
-| **9+** | **4** | **3** | **1** |
+| `9+` | `4` | `3` | `1` |
 
 </div>
 
 ---
 
-# 🧠 Tech Universe
+# 🛠 tech stack but make it aesthetic
 
 <div align="center">
 
-### Languages
-`Python` `SQL` `Java` `R` `C`
+<img src="https://skillicons.dev/icons?i=python,tensorflow,java,mysql,aws,docker,linux,git,github,vscode"/>
 
-### AI / ML
-`TensorFlow` `scikit-learn` `HuggingFace`
-`XGBoost` `LSTM` `NLP`
+<br/><br/>
 
-### Data Engineering
-`Apache Kafka` `ETL Pipelines`
-`Streaming Analytics` `Redis`
-`Pandas` `NumPy`
-
-### Cloud & Analytics
-`AWS EC2` `S3` `SageMaker`
-`Lambda` `Power BI` `Tableau`
+<img src="https://skillicons.dev/icons?i=pytorch,kafka,redis,sqlite,html,css,javascript"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Builds
+# ⚡ featured chaos (projects)
 
 <table>
 <tr>
@@ -95,9 +94,13 @@ But scalable systems that ingest, process, predict, automate, and actually *run*
 
 ## 🍽️ Restaurant Wait Time Predictor
 
-ML-powered operational analytics engine predicting customer wait durations using occupancy intelligence and traffic patterns.
+Predictive ML system analyzing occupancy patterns and customer flow in real time.
 
-`Python` `ML` `scikit-learn`
+```diff
++ ML Forecasting
++ Operational Analytics
++ Real-Time Prediction
+```
 
 </td>
 
@@ -105,9 +108,13 @@ ML-powered operational analytics engine predicting customer wait durations using
 
 ## 🧓 Elder Fall Detection System
 
-Real-time AI + IoT healthcare monitoring pipeline with emergency detection and alert automation.
+AI + IoT healthcare monitoring pipeline with emergency alert automation.
 
-`TensorFlow` `IoT` `Computer Vision`
+```diff
++ TensorFlow
++ Computer Vision
++ IoT Integration
+```
 
 </td>
 </tr>
@@ -117,103 +124,114 @@ Real-time AI + IoT healthcare monitoring pipeline with emergency detection and a
 
 ## 🚗 Smart Carpooling Analytics Platform
 
-Predictive mobility intelligence system for ride allocation and route optimization.
+Predictive mobility intelligence system for ride allocation and optimization.
 
-`ML` `SQL` `Optimization`
+```diff
++ SQL Dashboards
++ Demand Forecasting
++ Optimization Models
+```
 
 </td>
 
 <td width="50%">
 
-## 📡 Real-Time Streaming Data Pipeline
+## 📡 Real-Time Streaming Pipeline
 
-Kafka-driven anomaly detection and streaming analytics infrastructure.
+Kafka-powered anomaly detection and streaming analytics infrastructure.
 
-`Kafka` `Streaming` `Lambda Architecture`
+```diff
++ Kafka
++ Lambda Architecture
++ Streaming Analytics
+```
 
 </td>
 </tr>
-
 </table>
 
 ---
 
-# 💼 Experience
+# ☁️ experience.json
 
 <div align="center">
 
-| Organization | Role |
+| company | role |
 |---|---|
-| ☁️ **Infosys × AWS** | Data Science Trainee — Cloud + ML Deployment |
-| 📡 **GAO Tek Inc.** | IoT Data Systems Intern |
-| 📦 **MIB Industries** | Supply Chain Analytics Intern |
-| 🏆 **Infosys Springboard** | Top 5 Achiever among 500+ participants |
+| ☁️ Infosys × AWS | Data Science Trainee |
+| 📡 GAO Tek Inc. | IoT Data Systems Intern |
+| 📦 MIB Industries | Supply Chain Analytics Intern |
+| 🏆 Infosys Springboard | Top 5 Achiever |
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 achievements unlocked
+
+<div align="center">
 
 ```diff
 + 2× Hackathon Winner
 + Patent Under Review
-+ Top 5 — Infosys Springboard
-+ Research Works in AI + Healthcare + Analytics
++ Top 5 @ Infosys Springboard
++ Research Works in AI + Analytics
 ```
 
+</div>
+
 ---
 
-# 📈 GitHub Analytics
+# 📈 github analytics go brrrrr
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=4ade80&point=38bdf8&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=react-dark&hide_border=true&bg_color=0D1117&line=38bdf8&point=f472b6&area=true"/>
 
 </div>
 
 ---
 
-# 🌠 Currently Exploring
+# 🌠 currently exploring
 
 <div align="center">
 
-`LLMs` • `MLOps` • `AI Infrastructure`
-`Distributed Systems` • `Streaming Architectures`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=LLMs+%E2%9C%A8;MLOps+%F0%9F%9A%80;Distributed+Systems+%F0%9F%93%A1;Streaming+Architectures+%E2%9A%A1;Cloud+Infrastructure+%E2%98%81%EF%B8%8F"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Build Something Cool
+# 🤝 let's build something ridiculously cool
 
 <div align="center">
 
-I’m actively looking for opportunities in:
-
-### `Software Engineering`
-### `Machine Learning`
-### `Data Engineering`
-### `AI Infrastructure`
-
-<br/>
-
-> If you're building ambitious systems with AI, analytics, or scalable infrastructure — let's connect ⚡
+### open to:
+`Software Engineering`
+`Machine Learning`
+`Data Engineering`
+`AI Infrastructure`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
-[![GitHub](https://img.shields.io/badge/Explore-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
-[![Mail](https://img.shields.io/badge/Drop%20a-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![GitHub](https://img.shields.io/badge/explore_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+[![Mail](https://img.shields.io/badge/drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,25:38bdf8,50:a78bfa,75:f472b6,100:facc15&height=120&section=footer"/>
