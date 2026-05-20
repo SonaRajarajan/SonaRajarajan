@@ -1,82 +1,121 @@
-<h1 align="center">Hey, I'm Sona 👋</h1>
-<h3 align="center">ML & Data Engineer · VIT Chennai · Building systems that actually work in production</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sona-rajarajan-186445278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sonavrajarajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%202025–26-brightgreen?style=for-the-badge"/>
-</p>
+# Sona Rajarajan
 
----
+**ML · Data Engineering · Cloud Systems · VIT Chennai '27**
 
-### Who I am
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Internships%202025–26-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
 
-I'm a final-year Integrated M.Tech student in CSE (Business Analytics) at VIT Chennai, graduating 2027. I build end-to-end ML pipelines, data engineering systems, and cloud-integrated applications — not just notebooks, but things that actually run.
-
-I've interned at **Infosys × AWS** (cloud + ML deployment), **GAO Tek Inc.** (IoT data systems), and **MIB Industries** (supply chain analytics). I have a **patent under review** and a research paper on gamified corporate wellness platforms.
-
-I'm currently looking for **software engineering, data engineering, or ML internships** where I can solve real problems.
+</div>
 
 ---
 
-### What I'm working on right now
+## About
 
-- 🧠 **Gen Z CRM Intelligence Study** — NLP + clustering on consumer behavior data for a published research paper  
-- 📊 **Supply Chain Analytics Engine** — demand forecasting + fleet optimization for a logistics case study  
-- 📝 **Pixel Dash** — gamified corporate wellness platform (research paper under review)
+I'm a final-year Integrated M.Tech student in **CSE with Business Analytics** at VIT Chennai (2022–2027). I build end-to-end AI and data systems — ML pipelines, real-time streaming platforms, IoT analytics, and cloud-integrated applications. Not just notebooks; things that actually run.
 
----
-
-### Tech I actually use
-
-**Languages:** Python · SQL · Java · R · C  
-**ML/AI:** scikit-learn · TensorFlow · HuggingFace · LSTM · XGBoost  
-**Data Engineering:** Pandas · NumPy · ETL pipelines · Apache workflows  
-**Cloud:** AWS (EC2, S3, Lambda, SageMaker) · Google Colab  
-**Tools:** Power BI · Tableau · MySQL · Redis · Git · JAMOVI  
+I've interned at **Infosys × AWS** (cloud + ML deployment), **GAO Tek Inc.** (IoT data systems), and **MIB Industries** (supply chain analytics), and hold a **patent under review** for an AI-based wellness monitoring system.
 
 ---
 
-### Projects worth looking at
+## Technical Overview
 
-| Project | What it actually does | Stack |
+| | |
+|---|---|
+| **AI / ML Projects** | 9+ |
+| **Internships** | 4 |
+| **Research-Oriented Works** | 3 |
+| **Patent Filed** | 1 |
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `SQL` `Java` `R` `C`
+
+**ML / AI**
+`scikit-learn` `TensorFlow` `HuggingFace` `LSTM` `XGBoost` `NLP`
+
+**Data Engineering**
+`Pandas` `NumPy` `Apache Kafka` `ETL Pipelines` `Lambda Architecture` `Redis`
+
+**Cloud & Visualization**
+`AWS EC2` `S3` `SageMaker` `Lambda` `Power BI` `Tableau` `MySQL` `JAMOVI`
+
+---
+
+## Projects
+
+### AI & Machine Learning
+
+| Project | Description | Stack |
 |---|---|---|
-| [🍽️ Restaurant Wait Time Predictor](https://github.com/SonaRajarajan/AI-Integrated-Restaurant-Wait-Time-Prediction-System) | ML system predicting customer wait times from arrival patterns + table occupancy | Python, scikit-learn |
-| [🏠 AI Home Decor Recommender](https://github.com/SonaRajarajan/AI-Based-Home-Decor-Recommendation-System) | Recommendation engine that matches room dimensions and style preferences | Python, CV |
-| [🧓 Elder Fall Detection System](https://github.com/SonaRajarajan/AI-Based-Human-Fall-Detection-and-Monitoring-System-for-Elders) | Real-time IoT + AI pipeline for fall detection and emergency alerts | Python, IoT |
+| [🍽️ Restaurant Wait Time Predictor](https://github.com/SonaRajarajan/AI-Integrated-Restaurant-Wait-Time-Prediction-System) | ML system predicting customer wait times from arrival patterns and table occupancy | Python, scikit-learn, ML |
+| [🏠 AI Home Decor Recommender](https://github.com/SonaRajarajan/AI-Based-Home-Decor-Recommendation-System) | Recommendation engine matching room dimensions and style preferences using computer vision | Python, CV, AI |
+| [🧓 Elder Fall Detection System](https://github.com/SonaRajarajan/AI-Based-Human-Fall-Detection-and-Monitoring-System-for-Elders) | Real-time IoT + AI pipeline for fall detection and emergency alerts | Python, IoT, TensorFlow |
+| [💪 Wellness Monitoring Platform](https://github.com/SonaRajarajan/AI-Integrated-Wellness-Monitoring-and-Health-Analytics-System) | AI-driven health analytics platform providing actionable insights for preventive care *(Patent under review)* | JavaScript, AI, Analytics |
+| [🔷 Shape Contour Analyzer](https://github.com/SonaRajarajan/Shape-Contour-Analyzer22MIA1161) | Image processing system classifying shapes by geometric properties via contour detection | Python, OpenCV |
 | [📈 Data Analytics Version Control](https://github.com/SonaRajarajan/Data-Analytics-Version-Control) | System for tracking dataset and experiment versions across ML projects | HTML, Python |
 
+### Data Engineering & Analytics Systems
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚌 Metropolitan Bus Network Optimizer | ML demand forecasting for Chennai transit capacity; SQL pipelines and Excel dashboards for KPI tracking | Python, SQL, Pandas, Excel |
+| 🤖 NLP Customer Care Routing | NLP-powered request classification automating prioritization workflows; reduces manual overhead in supply chain ops | Python, NLP, SQL, Automation |
+| 🚗 Smart Carpooling Analytics Platform | Predictive models for ride allocation and route optimization with SQL-driven operational dashboards | Python, SQL, ML, Optimization |
+| ⚡ IoT Smart Home Energy Analytics | IoT-enabled real-time monitoring with predictive analytics for resource demand and operational efficiency | Python, IoT, SQL, ETL |
+| 📡 Real-Time Streaming Data Pipeline | Kafka-driven pipelines with streaming anomaly detection; Lambda architecture integrating batch and streaming layers | Python, Apache Kafka, SQL |
+
 ---
 
-### A few things that set me apart
+## Experience
 
-- 🏆 **2× Hackathon Winner** — including solutions in NLP and IoT health monitoring  
-- 🥇 **Top 5 Achiever** at Infosys Springboard (out of 500+ participants in cohort)  
-- 📋 **Patent under review** — AI-based wellness monitoring system  
-- 📚 **3 research-oriented works** including IEEE-format papers  
+| Company | Role |
+|---|---|
+| **Infosys × AWS** | Data Science Trainee — Cloud + ML deployment |
+| **GAO Tek Inc.** | IoT Data Systems Intern |
+| **MIB Industries** | Supply Chain Analytics Intern |
+| **Infosys Springboard** | Top 5 Achiever — ranked out of 500+ participants |
 
 ---
 
-### Let's connect
+## Achievements & Research
 
-If you're hiring for **SWE, Data Engineering, or ML roles** (internship or entry-level), I'd love to talk.
+- 🏆 **2× Hackathon Winner** — solutions in NLP and IoT health monitoring
+- 🥇 **Top 5 Achiever at Infosys Springboard** — out of 500+ participants in cohort
+- 📋 **Patent under review** — AI-based wellness monitoring and workforce analytics system
+- 📚 **3 research-oriented works** — including IEEE-format papers on human activity recognition, gamified corporate wellness (Pixel Dash), and Gen Z CRM intelligence
 
-📩 [sonavrajarajan@gmail.com](mailto:sonavrajarajan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+---
 
+## GitHub Activity
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=ec4899&point=facc15&area=true&area_color=7c3aed&title_color=2DD4BF&hide_border=true"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=blueviolet&style=flat)
+---
+
+## Let's Connect
+
+I'm looking for **software engineering, data engineering, or ML internships** where I can solve real problems at scale.
+
+📩 [sonavrajarajan@gmail.com](mailto:sonavrajarajan@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sona-rajarajan-186445278/) &nbsp;·&nbsp; [GitHub](https://github.com/SonaRajarajan)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=22c55e&style=flat-square&label=Profile+Views"/>
+</div>
