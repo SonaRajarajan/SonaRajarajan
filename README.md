@@ -1,443 +1,333 @@
-<!-- ════════════════════════════════════════════════ -->
-<!--                 HERO SECTION                   -->
-<!-- ════════════════════════════════════════════════ -->
+<div align="center">
 
-<div class="hero">
+# Sona <span style="color:#4ade80;">Rajarajan</span>
 
-  <div class="hero-glow"></div>
+### `ML` • `DATA ENGINEERING` • `CLOUD` • `VIT CHENNAI '27`
 
-  <div class="hero-top">
-    <div>
-      <div class="hero-name">
-        Sona <span>Rajarajan</span>
-      </div>
+<br/>
 
-      <div class="hero-role">
-        ML · DATA ENGINEERING · CLOUD · VIT CHENNAI '27
-      </div>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=building+production-ready+AI+systems...;real-time+streaming+platforms+%2B+analytics...;cloud-native+ML+infrastructure...;AI+systems+that+actually+run+at+scale." />
 
-      <div class="hero-bio">
-        I build end-to-end AI systems — ML pipelines, real-time data
-        platforms, streaming infrastructures, IoT analytics, and
-        cloud-native applications.
-        <br/><br/>
-        Not just notebooks.
-        Systems that actually run.
-      </div>
+<br/>
 
-      <div class="hero-mini-line">
-        currently exploring:
-        <span>LLMs</span> ·
-        <span>Streaming Architectures</span> ·
-        <span>MLOps</span> ·
-        <span>Distributed Systems</span>
-      </div>
+<img src="https://img.shields.io/badge/🎓_Integrated_M.Tech_CSE_•_Business_Analytics-4ade80?style=for-the-badge&labelColor=0f172a&color=22c55e"/>
+<img src="https://img.shields.io/badge/☁️_Infosys_×_AWS_Alumni-38bdf8?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/🏆_2×_Hackathon_Winner-facc15?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/📋_Patent_Under_Review-f472b6?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/✅_Open_to_Internships_2025–26-22c55e?style=for-the-badge&labelColor=0f172a"/>
 
-      <!-- BADGES -->
+<br/><br/>
 
-      <div class="badges">
-
-        <span class="badge b-green">
-          ⚡ Integrated M.Tech CSE · Business Analytics
-        </span>
-
-        <span class="badge b-blue">
-          ☁ Infosys × AWS Alumni
-        </span>
-
-        <span class="badge b-pink">
-          🏆 2× Hackathon Winner
-        </span>
-
-        <span class="badge b-purple">
-          📋 Patent Under Review
-        </span>
-
-        <span class="badge b-amber">
-          🚀 Open to SWE / ML / Data Roles
-        </span>
-
-      </div>
-
-      <!-- BUTTONS -->
-
-      <div class="links-row">
-
-        <a class="link-btn li"
-          href="https://www.linkedin.com/in/sona-rajarajan-186445278/"
-          target="_blank">
-
-          LinkedIn
-
-        </a>
-
-        <a class="link-btn gh"
-          href="https://github.com/SonaRajarajan"
-          target="_blank">
-
-          GitHub
-
-        </a>
-
-        <a class="link-btn mail"
-          href="mailto:sonavrajarajan@gmail.com">
-
-          sonavrajarajan@gmail.com
-
-        </a>
-
-      </div>
-
-    </div>
-
-    <!-- RIGHT SIDE CARD -->
-
-    <div class="hero-side-card">
-
-      <div class="side-title">
-        ENGINEERING PROFILE
-      </div>
-
-      <div class="side-stack">
-
-        <span>Machine Learning</span>
-        <span>Data Engineering</span>
-        <span>Cloud Systems</span>
-        <span>Streaming Analytics</span>
-        <span>Kafka Pipelines</span>
-        <span>IoT Intelligence</span>
-        <span>NLP Systems</span>
-        <span>AWS Deployment</span>
-
-      </div>
-
-      <div class="availability-box">
-
-        <div class="availability-dot"></div>
-
-        Available for:
-        <strong>Internships 2025–26</strong>
-
-      </div>
-
-    </div>
-
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+[![Email](https://img.shields.io/badge/sonavrajarajan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
 
 </div>
 
-<!-- ════════════════════════════════════════════════ -->
-<!--                 STATS SECTION                  -->
-<!-- ════════════════════════════════════════════════ -->
+---
 
-<div class="stats-row">
+# ✦ About
 
-  <div class="stat-cell">
-    <div class="stat-num">12+</div>
-    <div class="stat-label">Projects</div>
-  </div>
+```yaml
+name: Sona Rajarajan
+role: AI Systems Engineer
+education:
+  degree: Integrated M.Tech
+  specialization: CSE with Business Analytics
+  university: VIT Chennai
+  graduation: 2027
 
-  <div class="stat-cell">
-    <div class="stat-num">4</div>
-    <div class="stat-label">Internships</div>
-  </div>
+focus_areas:
+  - Machine Learning Systems
+  - Data Engineering
+  - Streaming Architectures
+  - Cloud-native Analytics
+  - AI Infrastructure
+```
 
-  <div class="stat-cell">
-    <div class="stat-num">3</div>
-    <div class="stat-label">Research Works</div>
-  </div>
+I build end-to-end AI systems — ML pipelines, real-time data platforms, IoT analytics, and cloud-integrated applications.
 
-  <div class="stat-cell">
-    <div class="stat-num">1</div>
-    <div class="stat-label">Patent Filed</div>
-  </div>
+Not just notebooks.
 
-</div>
+Systems that ingest → process → predict → automate → scale ⚡
 
-<!-- ════════════════════════════════════════════════ -->
-<!--             AI & ML PROJECTS                   -->
-<!-- ════════════════════════════════════════════════ -->
+---
 
-<div class="section">
+# ✦ Engineering Snapshot
 
-  <div class="section-title">
-    AI & MACHINE LEARNING SYSTEMS
-  </div>
+<div align="center">
 
-  <div class="projects-grid">
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-green"
-      href="https://github.com/SonaRajarajan/AI-Integrated-Restaurant-Wait-Time-Prediction-System"
-      target="_blank">
-
-      <span class="proj-icon">🍽️</span>
-
-      <div class="proj-name">
-        Restaurant Wait Time Predictor
-      </div>
-
-      <div class="proj-desc">
-        ML-powered operational analytics engine predicting customer wait
-        times using occupancy patterns and real-time traffic analytics.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">Python</span>
-        <span class="tag">ML</span>
-        <span class="tag">scikit-learn</span>
-      </div>
-
-    </a>
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-blue"
-      href="https://github.com/SonaRajarajan/AI-Based-Home-Decor-Recommendation-System"
-      target="_blank">
-
-      <span class="proj-icon">🏠</span>
-
-      <div class="proj-name">
-        AI Home Decor Recommender
-      </div>
-
-      <div class="proj-desc">
-        Computer vision recommendation engine matching room dimensions
-        and style preferences using AI-driven visual intelligence.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">Computer Vision</span>
-        <span class="tag">Python</span>
-        <span class="tag">AI</span>
-      </div>
-
-    </a>
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-pink"
-      href="https://github.com/SonaRajarajan/AI-Based-Human-Fall-Detection-and-Monitoring-System-for-Elders"
-      target="_blank">
-
-      <span class="proj-icon">🧓</span>
-
-      <div class="proj-name">
-        Elder Fall Detection System
-      </div>
-
-      <div class="proj-desc">
-        Real-time AI + IoT monitoring pipeline for emergency healthcare
-        alerts and intelligent fall detection systems.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">TensorFlow</span>
-        <span class="tag">IoT</span>
-        <span class="tag">Healthcare AI</span>
-      </div>
-
-    </a>
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-purple"
-      href="https://github.com/SonaRajarajan/AI-Integrated-Wellness-Monitoring-and-Health-Analytics-System"
-      target="_blank">
-
-      <span class="proj-icon">💪</span>
-
-      <div class="proj-name">
-        Wellness Monitoring Platform
-      </div>
-
-      <div class="proj-desc">
-        AI-integrated wellness analytics platform delivering preventive
-        health insights and operational intelligence.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">Analytics</span>
-        <span class="tag">AI</span>
-        <span class="tag">Patent</span>
-      </div>
-
-    </a>
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-teal"
-      href="https://github.com/SonaRajarajan/Shape-Contour-Analyzer22MIA1161"
-      target="_blank">
-
-      <span class="proj-icon">🔷</span>
-
-      <div class="proj-name">
-        Shape Contour Analyzer
-      </div>
-
-      <div class="proj-desc">
-        OpenCV-powered image processing system for contour recognition
-        and intelligent geometric shape analysis.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">OpenCV</span>
-        <span class="tag">Image Processing</span>
-        <span class="tag">Python</span>
-      </div>
-
-    </a>
-
-    <!-- PROJECT -->
-
-    <a class="proj-card c-amber"
-      href="https://github.com/SonaRajarajan/Data-Analytics-Version-Control"
-      target="_blank">
-
-      <span class="proj-icon">📈</span>
-
-      <div class="proj-name">
-        Data Analytics Version Control
-      </div>
-
-      <div class="proj-desc">
-        Structured version tracking system for datasets and ML experiments
-        supporting reproducible analytics workflows.
-      </div>
-
-      <div class="proj-tags">
-        <span class="tag">Analytics</span>
-        <span class="tag">Versioning</span>
-        <span class="tag">Python</span>
-      </div>
-
-    </a>
-
-  </div>
+| ⚡ Projects | ☁️ Internships | 📚 Research Works | 📋 Patent Filed |
+|---|---|---|---|
+| **9+** | **4** | **3** | **1** |
 
 </div>
 
-<!-- ════════════════════════════════════════════════ -->
-<!--          DATA ENGINEERING SYSTEMS              -->
-<!-- ════════════════════════════════════════════════ -->
+---
 
-<div class="section">
+# ✦ AI & Machine Learning Projects
 
-  <div class="section-title">
-    DATA ENGINEERING & ANALYTICS SYSTEMS
-  </div>
+<table>
+<tr>
+<td width="50%">
 
-  <div class="projects-grid">
+## 🍽️ Restaurant Wait Time Predictor
 
-    <div class="proj-card c-blue">
+ML system predicting customer wait times from occupancy patterns and customer arrival analytics.
 
-      <span class="proj-icon">🚌</span>
+<br/>
 
-      <div class="proj-name">
-        Metropolitan Bus Network Optimizer
-      </div>
+`Python` `scikit-learn` `ML`
 
-      <div class="proj-desc">
-        Demand forecasting and transit optimization platform with SQL
-        pipelines and KPI analytics dashboards.
-      </div>
+</td>
 
-      <div class="proj-tags">
-        <span class="tag">Forecasting</span>
-        <span class="tag">SQL</span>
-        <span class="tag">Pandas</span>
-      </div>
+<td width="50%">
 
-    </div>
+## 🏠 AI Home Decor Recommender
 
-    <div class="proj-card c-green">
+Computer vision-powered recommendation engine for room styling and spatial design matching.
 
-      <span class="proj-icon">🤖</span>
+<br/>
 
-      <div class="proj-name">
-        NLP Customer Care Routing
-      </div>
+`Python` `CV` `AI`
 
-      <div class="proj-desc">
-        NLP-driven request classification engine automating customer
-        prioritization and workflow intelligence.
-      </div>
+</td>
+</tr>
 
-      <div class="proj-tags">
-        <span class="tag">NLP</span>
-        <span class="tag">Automation</span>
-        <span class="tag">SQL</span>
-      </div>
+<tr>
+<td width="50%">
 
-    </div>
+## 🧓 Elder Fall Detection System
 
-    <div class="proj-card c-amber">
+Real-time IoT + AI monitoring pipeline for emergency detection and healthcare alerts.
 
-      <span class="proj-icon">🚗</span>
+<br/>
 
-      <div class="proj-name">
-        Smart Carpooling Analytics Platform
-      </div>
+`TensorFlow` `IoT` `Computer Vision`
 
-      <div class="proj-desc">
-        Predictive ride allocation and route optimization platform
-        focused on smart urban mobility systems.
-      </div>
+</td>
 
-      <div class="proj-tags">
-        <span class="tag">ML</span>
-        <span class="tag">Optimization</span>
-        <span class="tag">Analytics</span>
-      </div>
+<td width="50%">
 
-    </div>
+## 💪 Wellness Monitoring Platform
 
-    <div class="proj-card c-pink">
+AI-driven health analytics system delivering preventive wellness insights.
 
-      <span class="proj-icon">⚡</span>
+> Patent under review.
 
-      <div class="proj-name">
-        IoT Smart Home Energy Analytics
-      </div>
+<br/>
 
-      <div class="proj-desc">
-        Real-time IoT monitoring infrastructure delivering predictive
-        analytics for smart energy systems.
-      </div>
+`JavaScript` `AI` `Analytics`
 
-      <div class="proj-tags">
-        <span class="tag">IoT</span>
-        <span class="tag">ETL</span>
-        <span class="tag">Analytics</span>
-      </div>
+</td>
+</tr>
 
-    </div>
+<tr>
+<td width="50%">
 
-    <div class="proj-card c-purple span2">
+## 🔷 Shape Contour Analyzer
 
-      <span class="proj-icon">📡</span>
+Image processing system for geometric contour recognition and visual classification.
 
-      <div class="proj-name">
-        Real-Time Streaming Data Pipeline
-      </div>
+<br/>
 
-      <div class="proj-desc">
-        Kafka-driven streaming architecture integrating anomaly detection,
-        real-time ingestion, and intelligent operational monitoring.
-      </div>
+`Python` `OpenCV`
 
-      <div class="proj-tags">
-        <span class="tag">Apache Kafka</span>
-        <span class="tag">Streaming</span>
-        <span class="tag">Lambda Architecture</span>
-        <span class="tag">Redis</span>
-      </div>
+</td>
 
-    </div>
+<td width="50%">
 
-  </div>
+## 📈 Data Analytics Version Control
+
+Experiment and dataset versioning workflow for ML reproducibility systems.
+
+<br/>
+
+`Python` `Analytics`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✦ Data Engineering & Intelligent Systems
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚌 Metropolitan Bus Network Optimizer
+
+Demand forecasting and transit analytics platform for Chennai metropolitan mobility systems.
+
+<br/>
+
+`Python` `SQL` `Pandas`
+
+</td>
+
+<td width="50%">
+
+## 🤖 NLP Customer Care Routing
+
+NLP-powered workflow automation system for intelligent request prioritization.
+
+<br/>
+
+`NLP` `SQL` `Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚗 Smart Carpooling Analytics Platform
+
+Predictive ride allocation and operational optimization platform for smart mobility systems.
+
+<br/>
+
+`ML` `Optimization` `SQL`
+
+</td>
+
+<td width="50%">
+
+## ⚡ IoT Smart Home Energy Analytics
+
+Real-time predictive energy analytics system for operational efficiency optimization.
+
+<br/>
+
+`IoT` `ETL` `Analytics`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+## 📡 Real-Time Streaming Data Pipeline
+
+Kafka-powered streaming analytics infrastructure with anomaly detection and Lambda Architecture integration.
+
+<br/>
+
+`Apache Kafka` `Streaming Analytics` `Lambda Architecture` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✦ Tech Stack
+
+### Languages
+```txt
+Python • SQL • Java • R • C
+```
+
+### AI / ML
+```txt
+TensorFlow • scikit-learn • HuggingFace
+XGBoost • NLP • LSTM • Predictive Modeling
+```
+
+### Data Engineering
+```txt
+Apache Kafka • ETL Pipelines • Redis
+Lambda Architecture • Streaming Analytics
+Pandas • NumPy
+```
+
+### Cloud & Visualization
+```txt
+AWS EC2 • S3 • SageMaker • Lambda
+Power BI • Tableau • MySQL • JAMOVI
+```
+
+---
+
+# ✦ Experience
+
+| Organization | Role |
+|---|---|
+| ☁️ **Infosys × AWS** | Data Science Trainee — Cloud + ML Deployment |
+| 📡 **GAO Tek Inc.** | IoT Data Systems Intern |
+| 📦 **MIB Industries** | Supply Chain Analytics Intern |
+| 🏆 **Infosys Springboard** | Top 5 Achiever among 500+ participants |
+
+---
+
+# ✦ Achievements & Research
+
+```diff
++ 2× Hackathon Winner
++ Patent Under Review
++ Top 5 @ Infosys Springboard
++ AI + Analytics + Healthcare Research Works
+```
+
+### Research-Oriented Works
+- Human Activity Recognition
+- Pixel Dash — Gamified Corporate Wellness
+- Gen Z CRM Intelligence
+
+---
+
+# ✦ GitHub Activity
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true&background=0A0F1E"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=react-dark&bg_color=0a0f1e&hide_border=true&line=4ade80&point=38bdf8&area=true"/>
+
+</div>
+
+---
+
+# ✦ Currently Exploring
+
+<div align="center">
+
+`LLMs` • `MLOps` • `Distributed Systems`
+`Streaming Architectures` • `AI Infrastructure`
+
+</div>
+
+---
+
+<div align="center">
+
+# let's build something meaningful ⚡
+
+open to:
+
+`software engineering`
+`machine learning`
+`data engineering`
+`AI infrastructure`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![GitHub](https://img.shields.io/badge/projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+[![Mail](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=22c55e&style=flat-square&label=Profile+Views"/>
 
 </div>
