@@ -1,140 +1,247 @@
 ````md
 <div align="center">
 
-# Hey, I'm Sona Rajarajan 👋
+# Sona <span style="color:#4ade80;">Rajarajan</span>
 
-### Building AI Systems • Data Platforms • Cloud-Integrated Products
-
-**Integrated M.Tech — CSE with Business Analytics @ VIT Chennai ('27)**
+### AI Systems Engineer • Data Infrastructure Builder • Cloud-Native Developer
 
 <p>
-  <em>Turning messy real-world problems into scalable AI-powered systems.</em>
+  <em>
+    Building intelligent systems that move beyond notebooks — into production, scale, and impact.
+  </em>
 </p>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to-ML%20%7C%20Data%20Engineering%20Internships-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Open%20To-ML%20%7C%20Data%20Engineering%20Roles-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 𖥔 Who Am I?
 
-I'm a final-year Integrated M.Tech student specializing in **Computer Science & Business Analytics** at VIT Chennai.
+```diff
++ Integrated M.Tech — CSE with Business Analytics @ VIT Chennai ('27)
++ AI/ML + Data Engineering + Cloud Systems
++ Focused on building scalable, production-ready intelligence systems
+````
 
-I enjoy building systems where **AI, analytics, and engineering actually meet production** — from real-time streaming pipelines and IoT analytics to ML-powered applications and cloud-native workflows.
+I design and build **end-to-end AI-driven platforms** — from machine learning pipelines and streaming architectures to cloud-integrated analytics systems.
 
-Most of my work revolves around:
+Most projects stop at models.
 
-- ⚡ Machine Learning Systems  
-- 📊 Data Engineering & Analytics  
-- ☁️ Cloud + AI Deployment  
-- 🔄 Real-Time Streaming Architectures  
-- 🤖 Intelligent Automation & NLP  
+Mine focus on:
 
-I’ve worked across domains like **mobility, healthcare, IoT, operational analytics, and predictive systems** through internships, research, and independent builds.
+* deployment,
+* automation,
+* operational intelligence,
+* and systems that can actually survive production environments.
 
-Currently exploring:
-`LLMs` • `MLOps` • `Distributed Systems` • `Applied AI Infrastructure`
+Currently obsessed with:
+`LLMs` • `Streaming Data Systems` • `Applied AI` • `Cloud Infrastructure` • `MLOps`
 
 ---
 
-# 📌 Snapshot
+# ⚡ Snapshot
 
 <div align="center">
 
-| Focus Area | Highlights |
-|---|---|
-| 🧠 AI / ML Projects | 9+ |
-| 💼 Industry Internships | 4 |
-| 📄 Research-Oriented Works | 3 |
-| 📋 Patent Filed | 1 |
-| 🏆 Hackathon Wins | 2× |
+| Projects | Internships | Research Works | Patent |
+| :------: | :---------: | :------------: | :----: |
+|  **9+**  |    **4**    |      **3**     |  **1** |
 
 </div>
 
 ---
 
-# 🛠 Tech Arsenal
+# 🧠 What I Build
+
+## AI & Machine Learning Systems
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant Wait Time Predictor
+
+Predictive ML system estimating customer wait times using occupancy analytics and live operational patterns.
+
+`Python` `scikit-learn` `ML`
+
+</td>
+
+<td width="50%">
+
+### 🏠 AI Home Decor Recommender
+
+Computer vision powered recommendation engine for interior styling and spatial matching.
+
+`Python` `CV` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧓 Elder Fall Detection System
+
+Real-time AI + IoT monitoring pipeline for emergency detection and healthcare alert automation.
+
+`TensorFlow` `IoT` `Python`
+
+</td>
+
+<td width="50%">
+
+### 💪 Wellness Monitoring Platform
+
+AI-driven wellness analytics platform focused on preventive healthcare intelligence.
+
+> Patent under review.
+
+`AI` `Analytics` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔷 Shape Contour Analyzer
+
+Image processing system for geometric contour recognition and visual classification.
+
+`Python` `OpenCV`
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Analytics Version Control
+
+Experiment and dataset versioning system for ML reproducibility workflows.
+
+`Python` `Analytics`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Data Engineering & Intelligent Platforms
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚌 Metropolitan Bus Network Optimizer
+
+Demand forecasting engine for public transport optimization using operational analytics.
+
+`Python` `SQL` `Pandas`
+
+</td>
+
+<td width="50%">
+
+### 🤖 NLP Customer Care Routing
+
+Automated NLP workflow for ticket prioritization and intelligent customer support routing.
+
+`NLP` `SQL` `Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 Smart Carpooling Analytics Platform
+
+Predictive ride allocation and mobility optimization platform for urban transportation systems.
+
+`ML` `Optimization` `SQL`
+
+</td>
+
+<td width="50%">
+
+### ⚡ IoT Smart Home Energy Analytics
+
+Real-time IoT analytics system for predictive energy monitoring and usage optimization.
+
+`IoT` `ETL` `Analytics`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Core Stack
 
 ## Languages
+
 ```python
 Python • SQL • Java • R • C
-````
+```
 
-## AI / Machine Learning
+## Machine Learning
 
 ```python
-scikit-learn • TensorFlow • HuggingFace • XGBoost
-LSTM • NLP • Computer Vision • Predictive Modeling
+TensorFlow • scikit-learn • HuggingFace
+XGBoost • NLP • LSTM • Computer Vision
 ```
 
 ## Data Engineering
 
 ```python
-Pandas • NumPy • Apache Kafka • ETL Pipelines
-Redis • Lambda Architecture • Streaming Analytics
+Apache Kafka • ETL Pipelines • Redis
+Lambda Architecture • Streaming Analytics
 ```
 
-## Cloud & Analytics
+## Cloud & Visualization
 
 ```python
-AWS EC2 • S3 • SageMaker • AWS Lambda
-Power BI • Tableau • MySQL • JAMOVI
+AWS EC2 • S3 • SageMaker • Lambda
+Power BI • Tableau • MySQL
 ```
-
----
-
-# 💡 Featured Projects
-
-## 🧠 AI & Machine Learning
-
-| Project                                                                                                                           | What It Does                                                                        | Tech                        |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------- |
-| [🍽️ Restaurant Wait Time Predictor](https://github.com/SonaRajarajan/AI-Integrated-Restaurant-Wait-Time-Prediction-System)       | Predicts restaurant wait times using occupancy patterns and customer flow analytics | Python • ML • scikit-learn  |
-| [🏠 AI Home Decor Recommender](https://github.com/SonaRajarajan/AI-Based-Home-Decor-Recommendation-System)                        | Recommends decor styles using computer vision and spatial preferences               | Python • CV • AI            |
-| [🧓 Elder Fall Detection System](https://github.com/SonaRajarajan/AI-Based-Human-Fall-Detection-and-Monitoring-System-for-Elders) | Real-time AI + IoT monitoring system for emergency fall detection                   | TensorFlow • IoT • Python   |
-| [💪 Wellness Monitoring Platform](https://github.com/SonaRajarajan/AI-Integrated-Wellness-Monitoring-and-Health-Analytics-System) | AI-driven preventive wellness analytics platform *(Patent under review)*            | AI • Analytics • JavaScript |
-| [🔷 Shape Contour Analyzer](https://github.com/SonaRajarajan/Shape-Contour-Analyzer22MIA1161)                                     | Detects and classifies geometric contours using image processing                    | OpenCV • Python             |
-| [📈 Data Analytics Version Control](https://github.com/SonaRajarajan/Data-Analytics-Version-Control)                              | Tracks datasets and ML experiment versions for reproducible workflows               | Python • HTML               |
-
----
-
-## ⚙️ Data Engineering & Intelligent Systems
-
-| Project                                | What It Solves                                                   | Stack                       |
-| -------------------------------------- | ---------------------------------------------------------------- | --------------------------- |
-| 🚌 Metropolitan Bus Network Optimizer  | Forecasts urban transit demand and improves operational planning | Python • SQL • Pandas       |
-| 🤖 NLP Customer Care Routing           | Automates customer request classification and prioritization     | NLP • Automation • SQL      |
-| 🚗 Smart Carpooling Analytics Platform | Optimizes ride allocation and mobility demand forecasting        | ML • SQL • Optimization     |
-| ⚡ IoT Smart Home Energy Analytics      | Real-time monitoring and predictive energy analytics system      | IoT • ETL • Analytics       |
-| 📡 Real-Time Streaming Data Pipeline   | Kafka-powered streaming pipeline with anomaly detection          | Kafka • Lambda Architecture |
 
 ---
 
 # 💼 Experience
 
-| Organization            | Role                                            |
-| ----------------------- | ----------------------------------------------- |
-| **Infosys × AWS**       | Data Science Trainee — Cloud & ML Deployment    |
-| **GAO Tek Inc.**        | IoT Data Systems Intern                         |
-| **MIB Industries**      | Supply Chain Analytics Intern                   |
-| **Infosys Springboard** | Top 5 Achiever — ranked among 500+ participants |
+| Organization            | Role                                         |
+| ----------------------- | -------------------------------------------- |
+| **Infosys × AWS**       | Data Science Trainee — Cloud + ML Deployment |
+| **GAO Tek Inc.**        | IoT Data Systems Intern                      |
+| **MIB Industries**      | Supply Chain Analytics Intern                |
+| **Infosys Springboard** | Top 5 Achiever among 500+ participants       |
 
 ---
 
 # 🏆 Achievements
 
-* 🥇 **Top 5 Achiever — Infosys Springboard**
-* 🏆 **2× Hackathon Winner**
-* 📋 **Patent Under Review** — AI-based wellness monitoring system
-* 📚 Worked on **IEEE-format research projects** in:
+```yaml
+Hackathons:
+  - 2× Winner
+  - Domains: NLP + IoT Healthcare
 
-  * Human Activity Recognition
-  * Gamified Corporate Wellness
-  * Gen Z CRM Intelligence
+Research:
+  - Human Activity Recognition
+  - Pixel Dash Wellness Platform
+  - Gen Z CRM Intelligence
+
+Recognition:
+  - Patent Under Review
+  - Top 5 @ Infosys Springboard
+```
 
 ---
 
@@ -146,15 +253,11 @@ Power BI • Tableau • MySQL • JAMOVI
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=radical&bg_color=0b1220&color=e5e7eb&line=22c55e&point=facc15&area=true&hide_border=true"/>
 
@@ -162,27 +265,20 @@ Power BI • Tableau • MySQL • JAMOVI
 
 ---
 
-# 🤝 Let’s Build Something Impactful
-
-I'm actively looking for opportunities in:
-
-* Software Engineering
-* Machine Learning
-* Data Engineering
-* AI Infrastructure
-* Cloud & Analytics
-
-If you're building something ambitious with AI, data, or scalable systems — let's connect.
-
 <div align="center">
 
-### 📬 Reach Out
+# Let's Build Something Meaningful ⚡
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
-[![GitHub](https://img.shields.io/badge/Explore-Projects-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SonaRajarajan)
-[![Mail](https://img.shields.io/badge/Drop%20a-Mail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+Open to:
+**Software Engineering • Data Engineering • ML • AI Infrastructure Roles**
 
 <br/>
+
+[![Mail](https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![GitHub](https://img.shields.io/badge/Projects-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SonaRajarajan)
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=22c55e&style=flat-square&label=Profile+Views"/>
 
