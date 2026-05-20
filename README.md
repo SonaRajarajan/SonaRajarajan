@@ -1,45 +1,61 @@
 <div align="center">
 
-# Sona Rajarajan
+# Sona Rajarajan ⚡
 
-### AI Systems Engineer • Data Engineering • Cloud Infrastructure
+### `AI Systems` • `Data Engineering` • `Cloud-Native Intelligence`
 
-Building scalable ML systems, streaming platforms, and intelligent analytics solutions focused on real-world deployment.
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+actually+ship...;Designing+real-time+data+platforms...;Turning+analytics+into+intelligent+products...;ML+%2B+Data+Engineering+%2B+Cloud+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to-ML%20%7C%20Data%20Engineering%20Internships-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
+[![Open To Work](https://img.shields.io/badge/Open%20to-ML%20%7C%20Data%20Engineering%20Roles-22c55e?style=for-the-badge)](mailto:sonavrajarajan@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=4ade80&style=flat-square&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🌌 About Me
 
-I'm an Integrated M.Tech student in **CSE with Business Analytics** at **VIT Chennai ('27)**.
+```yaml
+name: Sona Rajarajan
+education: Integrated M.Tech — CSE with Business Analytics
+university: VIT Chennai
+graduation: 2027
 
-I build end-to-end AI systems — from ML pipelines and streaming architectures to cloud-native analytics platforms.
+currently_building:
+  - AI-powered analytics systems
+  - Streaming data infrastructures
+  - Intelligent automation workflows
+  - Real-time IoT platforms
 
-My interests mainly revolve around:
+interests:
+  - Machine Learning
+  - Data Engineering
+  - Distributed Systems
+  - Cloud Infrastructure
+  - Applied AI
+```
 
-- ⚡ Machine Learning Systems
-- 📡 Real-Time Data Engineering
-- ☁️ Cloud + AI Deployment
-- 🤖 NLP & Intelligent Automation
-- 📊 Analytics Infrastructure
+I love building systems where **AI meets engineering**.
 
-I enjoy building systems that go beyond notebooks and actually work in production environments.
+Not just models.  
+Not just dashboards.  
+But scalable systems that ingest, process, predict, automate, and actually *run*.
 
 ---
 
-## ⚡ Snapshot
+# ⚡ Engineering Snapshot
 
 <div align="center">
 
-| Projects | Internships | Research Works | Patent |
+| 🚀 Projects | 💼 Internships | 📚 Research Works | 🧠 Patent |
 |:---:|:---:|:---:|:---:|
 | **9+** | **4** | **3** | **1** |
 
@@ -47,61 +63,114 @@ I enjoy building systems that go beyond notebooks and actually work in productio
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Tech Universe
+
+<div align="center">
 
 ### Languages
 `Python` `SQL` `Java` `R` `C`
 
 ### AI / ML
-`TensorFlow` `scikit-learn` `HuggingFace` `XGBoost` `NLP` `LSTM`
+`TensorFlow` `scikit-learn` `HuggingFace`
+`XGBoost` `LSTM` `NLP`
 
 ### Data Engineering
-`Apache Kafka` `ETL Pipelines` `Pandas` `NumPy` `Redis`
+`Apache Kafka` `ETL Pipelines`
+`Streaming Analytics` `Redis`
+`Pandas` `NumPy`
 
 ### Cloud & Analytics
-`AWS EC2` `S3` `SageMaker` `Lambda` `Power BI` `Tableau`
+`AWS EC2` `S3` `SageMaker`
+`Lambda` `Power BI` `Tableau`
+
+</div>
 
 ---
 
-## 💡 Featured Projects
+# 🚀 Featured Builds
 
-| Project | Description |
-|---|---|
-| 🍽️ **Restaurant Wait Time Predictor** | ML-based customer wait time prediction system using occupancy analytics |
-| 🧓 **Elder Fall Detection System** | Real-time IoT + AI healthcare monitoring pipeline |
-| 🚗 **Smart Carpooling Analytics Platform** | Predictive ride allocation and route optimization system |
-| 📡 **Real-Time Streaming Data Pipeline** | Kafka-powered streaming analytics with anomaly detection |
-| ⚡ **IoT Smart Home Energy Analytics** | Real-time predictive energy monitoring platform |
+<table>
+<tr>
+<td width="50%">
+
+## 🍽️ Restaurant Wait Time Predictor
+
+ML-powered operational analytics engine predicting customer wait durations using occupancy intelligence and traffic patterns.
+
+`Python` `ML` `scikit-learn`
+
+</td>
+
+<td width="50%">
+
+## 🧓 Elder Fall Detection System
+
+Real-time AI + IoT healthcare monitoring pipeline with emergency detection and alert automation.
+
+`TensorFlow` `IoT` `Computer Vision`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚗 Smart Carpooling Analytics Platform
+
+Predictive mobility intelligence system for ride allocation and route optimization.
+
+`ML` `SQL` `Optimization`
+
+</td>
+
+<td width="50%">
+
+## 📡 Real-Time Streaming Data Pipeline
+
+Kafka-driven anomaly detection and streaming analytics infrastructure.
+
+`Kafka` `Streaming` `Lambda Architecture`
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 💼 Experience
-
-| Organization | Role |
-|---|---|
-| **Infosys × AWS** | Data Science Trainee — Cloud + ML Deployment |
-| **GAO Tek Inc.** | IoT Data Systems Intern |
-| **MIB Industries** | Supply Chain Analytics Intern |
-| **Infosys Springboard** | Top 5 Achiever among 500+ participants |
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top 5 Achiever — Infosys Springboard
-- 🏆 2× Hackathon Winner
-- 📋 Patent Under Review — AI-based wellness monitoring system
-- 📚 Research-oriented works in AI, analytics, and healthcare systems
-
----
-
-## 📈 GitHub Analytics
+# 💼 Experience
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true"/>
+| Organization | Role |
+|---|---|
+| ☁️ **Infosys × AWS** | Data Science Trainee — Cloud + ML Deployment |
+| 📡 **GAO Tek Inc.** | IoT Data Systems Intern |
+| 📦 **MIB Industries** | Supply Chain Analytics Intern |
+| 🏆 **Infosys Springboard** | Top 5 Achiever among 500+ participants |
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 🏆 Achievements
+
+```diff
++ 2× Hackathon Winner
++ Patent Under Review
++ Top 5 — Infosys Springboard
++ Research Works in AI + Healthcare + Analytics
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/>
 
@@ -109,28 +178,42 @@ I enjoy building systems that go beyond notebooks and actually work in productio
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=4ade80&point=38bdf8&area=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🌠 Currently Exploring
 
 <div align="center">
 
-I'm actively looking for opportunities in:
+`LLMs` • `MLOps` • `AI Infrastructure`
+`Distributed Systems` • `Streaming Architectures`
 
-**Software Engineering • Machine Learning • Data Engineering • AI Infrastructure**
+</div>
+
+---
+
+# 🤝 Let's Build Something Cool
+
+<div align="center">
+
+I’m actively looking for opportunities in:
+
+### `Software Engineering`
+### `Machine Learning`
+### `Data Engineering`
+### `AI Infrastructure`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
-[![GitHub](https://img.shields.io/badge/Explore-Projects-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
+> If you're building ambitious systems with AI, analytics, or scalable infrastructure — let's connect ⚡
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
+[![GitHub](https://img.shields.io/badge/Explore-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Mail](https://img.shields.io/badge/Drop%20a-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=22c55e&style=flat-square&label=Profile+Views"/>
 
 </div>
