@@ -5,7 +5,6 @@
 ### `ML ENGINEER` · `DATA ENGINEERING` · `CLOUD SYSTEMS`
 
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=building+production-ready+AI+systems;real-time+analytics+%2B+streaming+platforms;cloud-native+machine+learning+infrastructure;engineering+systems+that+actually+scale" />
 
 <br/>
