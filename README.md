@@ -192,16 +192,16 @@ The focus is never just the model. It's the entire lifecycle:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=3b82f6&icon_color=3b82f6&text_color=3b82f6&ring_color=d946ef"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=3b82f6&text_color=3b82f6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=4ade80&icon_color=4ade80&text_color=4ade80&ring_color=7c3aed"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=4ade80&text_color=4ade80"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0A0F1E&ring=d946ef&fire=d946ef&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=3b82f6&currStreakNum=3b82f6&sideNums=3b82f6&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0A0F1E&ring=7c3aed&fire=7c3aed&currStreakLabel=4ade80&sideLabels=4ade80&dates=4ade80&currStreakNum=4ade80&sideNums=4ade80&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0a0f1e&hide_border=true&line=d946ef&point=3b82f6&color=3b82f6&area=true&area_color=1e1b4b"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0a0f1e&hide_border=true&line=7c3aed&point=4ade80&color=4ade80&area=true&area_color=2e1065"/>
 
 </div>
 
