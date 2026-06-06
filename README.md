@@ -1,10 +1,93 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<svg width="100%" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0f1e"/>
+      <stop offset="50%" style="stop-color:#0f1a35"/>
+      <stop offset="100%" style="stop-color:#0a0f1e"/>
+    </linearGradient>
+    <linearGradient id="line1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#4ade80;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#7c3aed;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="line2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#7c3aed;stop-opacity:0.6"/>
+      <stop offset="60%" style="stop-color:#4ade80;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow-green">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-violet">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="120" fill="url(#bg)"/>
+
+  <!-- grid dots -->
+  <g opacity="0.15">
+    <circle cx="60" cy="30" r="1.2" fill="#4ade80"/><circle cx="120" cy="30" r="1.2" fill="#4ade80"/>
+    <circle cx="180" cy="30" r="1.2" fill="#7c3aed"/><circle cx="240" cy="30" r="1.2" fill="#7c3aed"/>
+    <circle cx="300" cy="30" r="1.2" fill="#4ade80"/><circle cx="360" cy="30" r="1.2" fill="#4ade80"/>
+    <circle cx="420" cy="30" r="1.2" fill="#7c3aed"/><circle cx="480" cy="30" r="1.2" fill="#7c3aed"/>
+    <circle cx="540" cy="30" r="1.2" fill="#4ade80"/><circle cx="600" cy="30" r="1.2" fill="#4ade80"/>
+    <circle cx="660" cy="30" r="1.2" fill="#7c3aed"/><circle cx="720" cy="30" r="1.2" fill="#7c3aed"/>
+    <circle cx="780" cy="30" r="1.2" fill="#4ade80"/><circle cx="840" cy="30" r="1.2" fill="#4ade80"/>
+    <circle cx="60" cy="90" r="1.2" fill="#7c3aed"/><circle cx="120" cy="90" r="1.2" fill="#4ade80"/>
+    <circle cx="180" cy="90" r="1.2" fill="#4ade80"/><circle cx="240" cy="90" r="1.2" fill="#7c3aed"/>
+    <circle cx="300" cy="90" r="1.2" fill="#7c3aed"/><circle cx="360" cy="90" r="1.2" fill="#4ade80"/>
+    <circle cx="420" cy="90" r="1.2" fill="#4ade80"/><circle cx="480" cy="90" r="1.2" fill="#7c3aed"/>
+    <circle cx="540" cy="90" r="1.2" fill="#7c3aed"/><circle cx="600" cy="90" r="1.2" fill="#4ade80"/>
+    <circle cx="660" cy="90" r="1.2" fill="#4ade80"/><circle cx="720" cy="90" r="1.2" fill="#7c3aed"/>
+    <circle cx="780" cy="90" r="1.2" fill="#7c3aed"/><circle cx="840" cy="90" r="1.2" fill="#4ade80"/>
+  </g>
+
+  <!-- animated circuit lines -->
+  <path d="M0,60 Q150,20 300,60 Q450,100 600,60 Q750,20 900,60" stroke="url(#line1)" stroke-width="1.5" fill="none" filter="url(#glow-green)" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="1800" to="0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="d" values="M0,60 Q150,20 300,60 Q450,100 600,60 Q750,20 900,60;M0,60 Q150,100 300,60 Q450,20 600,60 Q750,100 900,60;M0,60 Q150,20 300,60 Q450,100 600,60 Q750,20 900,60" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,60 Q150,100 300,60 Q450,20 600,60 Q750,100 900,60" stroke="url(#line2)" stroke-width="1" fill="none" filter="url(#glow-violet)" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" from="0" to="1800" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- glowing orbs -->
+  <circle cx="180" cy="60" r="3" fill="#4ade80" filter="url(#glow-green)" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;45;60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="60" r="4" fill="#7c3aed" filter="url(#glow-violet)" opacity="0.9">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;75;60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="60" r="3" fill="#4ade80" filter="url(#glow-green)" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;45;60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- top border line -->
+  <line x1="0" y1="2" x2="900" y2="2" stroke="url(#line1)" stroke-width="1.5" opacity="0.6"/>
+  <!-- bottom border line -->
+  <line x1="0" y1="118" x2="900" y2="118" stroke="url(#line2)" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- corner accents -->
+  <polyline points="0,0 0,20" stroke="#4ade80" stroke-width="2" opacity="0.8" filter="url(#glow-green)"/>
+  <polyline points="0,0 25,0" stroke="#4ade80" stroke-width="2" opacity="0.8" filter="url(#glow-green)"/>
+  <polyline points="900,0 900,20" stroke="#7c3aed" stroke-width="2" opacity="0.8" filter="url(#glow-violet)"/>
+  <polyline points="875,0 900,0" stroke="#7c3aed" stroke-width="2" opacity="0.8" filter="url(#glow-violet)"/>
+  <polyline points="0,120 0,100" stroke="#7c3aed" stroke-width="2" opacity="0.8" filter="url(#glow-violet)"/>
+  <polyline points="0,120 25,120" stroke="#7c3aed" stroke-width="2" opacity="0.8" filter="url(#glow-violet)"/>
+  <polyline points="900,120 900,100" stroke="#4ade80" stroke-width="2" opacity="0.8" filter="url(#glow-green)"/>
+  <polyline points="875,120 900,120" stroke="#4ade80" stroke-width="2" opacity="0.8" filter="url(#glow-green)"/>
+</svg>
 
 # Sona Rajarajan
 
@@ -192,18 +275,22 @@ The focus is never just the model. It's the entire lifecycle:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=4ade80&icon_color=4ade80&text_color=4ade80&ring_color=7c3aed"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=4ade80&text_color=4ade80"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&ring_color=a855f7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=c084fc&text_color=22d3ee"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0A0F1E&ring=7c3aed&fire=7c3aed&currStreakLabel=4ade80&sideLabels=4ade80&dates=4ade80&currStreakNum=4ade80&sideNums=4ade80&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0A0F1E&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=22d3ee&dates=94a3b8&currStreakNum=22d3ee&sideNums=22d3ee&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0a0f1e&hide_border=true&line=7c3aed&point=4ade80&color=4ade80&area=true&area_color=2e1065"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0a0f1e&hide_border=true&line=a855f7&point=22d3ee&color=c084fc&area=true&area_color=581c87"/>
 
 </div>
+
+---
+
+<div align="center">
 
 ## let's build something meaningful ⚡
 
