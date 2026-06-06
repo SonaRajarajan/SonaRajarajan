@@ -8,7 +8,7 @@
 
 # Sona Rajarajan
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Integrated+M.Tech+%E2%80%A2+CSE+with+Business+Analytics+%40+VIT+Chennai;ML+Engineer+%7C+Data+Engineer+%7C+Cloud+Systems;Building+production-ready+AI+%2B+analytics+infrastructure;ingest+%E2%86%92+process+%E2%86%92+predict+%E2%86%92+automate+%E2%86%92+scale" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Integrated+M.Tech+%E2%80%A2+CSE+with+Business+Analytics+%40+VIT+Chennai;ML+Engineer+%7C+Data+Engineer+%7C+Cloud+Systems;Building+production-Ready+AI+%2B+Analytics+Infrastructure;Ingest+%E2%86%92+Process+%E2%86%92+Predict+%E2%86%92+Automate+%E2%86%92+Scale" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=a855f7&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=a855f7&style=flat-square&label=Profile+Views"/>
 
 <br/>
 
@@ -44,7 +44,7 @@ Currently   : [ LLMs · MLOps · Distributed Systems · Streaming Architectures 
 Open_To     : [ ML · Data Engineering · AI Infrastructure · Business Analytics Internships ]
 ```
 
-I build end-to-end intelligent systems — from streaming pipelines and ML models to cloud-integrated analytics platforms and LLM-powered applications.
+I Build end-to-end intelligent systems — from streaming pipelines and ML models to cloud-integrated analytics platforms and LLM-powered applications.
 
 The focus is never just the model. It's the entire lifecycle:
 
@@ -67,8 +67,6 @@ The focus is never just the model. It's the entire lifecycle:
 ---
 
 ## 〔 Project Portfolio 〕
-
-> Complete breakdown of all projects — domain, objective, and tech stack.
 
 <br/>
 
