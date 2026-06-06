@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=120&section=header&text=&animation=fadeIn"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 # Sona Rajarajan
 
@@ -11,6 +15,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=a855f7&style=flat-square&label=profile+views"/>
 
 <br/>
 
@@ -184,16 +192,16 @@ The focus is never just the model. It's the entire lifecycle:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=4ade80"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=4ade80"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true&background=0A0F1E&ring=38bdf8&fire=4ade80&currStreakLabel=38bdf8"/>
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true&background=0A0F1E&ring=a855f7&fire=d946ef&currStreakLabel=a855f7&sideLabels=38bdf8&dates=38bdf8&currStreakNum=ffffff&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=react-dark&bg_color=0a0f1e&hide_border=true&line=4ade80&point=38bdf8&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=react-dark&bg_color=0a0f1e&hide_border=true&line=d946ef&point=38bdf8&color=a855f7&area=true&area_color=7c3aed"/>
 
 </div>
 
@@ -213,10 +221,12 @@ Open to internship opportunities in:
 [![GitHub](https://img.shields.io/badge/explore_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/send_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SonaRajarajan&color=38bdf8&style=flat-square&label=profile+views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=80&section=footer"/>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  © 2025 Sona Rajarajan  ·  VIT Chennai  ·  Building the future, one commit at a time
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
