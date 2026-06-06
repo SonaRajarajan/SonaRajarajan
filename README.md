@@ -1,10 +1,152 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<svg width="100%" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- backgrounds -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050810"/>
+      <stop offset="40%" style="stop-color:#0f0a2e"/>
+      <stop offset="70%" style="stop-color:#071a10"/>
+      <stop offset="100%" style="stop-color:#050810"/>
+    </linearGradient>
+    <!-- neural pulse gradient -->
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:0"/>
+      <stop offset="25%" style="stop-color:#4ade80;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#a855f7;stop-opacity:1"/>
+      <stop offset="75%" style="stop-color:#7c3aed;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="pulseGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#7c3aed;stop-opacity:0.8"/>
+      <stop offset="60%" style="stop-color:#4ade80;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:0"/>
+    </linearGradient>
+    <!-- shark slash fill -->
+    <linearGradient id="slashFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:0.07"/>
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:0.07"/>
+    </linearGradient>
+    <!-- glow filters -->
+    <filter id="glowG" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowV" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="sharkClip">
+      <polygon points="0,0 900,0 900,95 820,130 0,130"/>
+    </clipPath>
+  </defs>
+  <!-- base background -->
+  <rect width="900" height="130" fill="url(#bgGrad)"/>
+  <!-- shark-slice diagonal fill panel (Option 3 aesthetic) -->
+  <polygon points="0,0 900,0 900,90 780,130 0,130" fill="url(#slashFill)"/>
+  <!-- secondary reverse slash accent -->
+  <polygon points="0,110 200,130 0,130" fill="#4ade80" opacity="0.05"/>
+  <polygon points="900,80 900,130 650,130" fill="#7c3aed" opacity="0.06"/>
+  <!-- sharp diagonal slice edge lines (shark cuts) -->
+  <line x1="0" y1="108" x2="790" y2="108" stroke="#4ade80" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="112" x2="800" y2="112" stroke="#7c3aed" stroke-width="0.3" opacity="0.15"/>
+  <!-- neural network nodes (Option 1) — background layer -->
+  <g opacity="0.18">
+    <circle cx="80"  cy="35" r="2" fill="#4ade80"/>
+    <circle cx="200" cy="55" r="2" fill="#7c3aed"/>
+    <circle cx="330" cy="28" r="2" fill="#4ade80"/>
+    <circle cx="450" cy="65" r="2" fill="#a855f7"/>
+    <circle cx="580" cy="30" r="2" fill="#7c3aed"/>
+    <circle cx="700" cy="58" r="2" fill="#4ade80"/>
+    <circle cx="820" cy="35" r="2" fill="#7c3aed"/>
+    <circle cx="140" cy="90" r="1.5" fill="#7c3aed"/>
+    <circle cx="270" cy="80" r="1.5" fill="#4ade80"/>
+    <circle cx="400" cy="95" r="1.5" fill="#4ade80"/>
+    <circle cx="520" cy="78" r="1.5" fill="#7c3aed"/>
+    <circle cx="650" cy="88" r="1.5" fill="#a855f7"/>
+    <circle cx="760" cy="72" r="1.5" fill="#4ade80"/>
+  </g>
+  <!-- neural synapse lines -->
+  <g opacity="0.12" stroke-width="0.8">
+    <line x1="80"  y1="35" x2="200" y2="55"  stroke="#4ade80"/>
+    <line x1="200" y1="55" x2="330" y2="28"  stroke="#7c3aed"/>
+    <line x1="330" y1="28" x2="450" y2="65"  stroke="#4ade80"/>
+    <line x1="450" y1="65" x2="580" y2="30"  stroke="#a855f7"/>
+    <line x1="580" y1="30" x2="700" y2="58"  stroke="#7c3aed"/>
+    <line x1="700" y1="58" x2="820" y2="35"  stroke="#4ade80"/>
+    <line x1="140" y1="90" x2="270" y2="80"  stroke="#7c3aed"/>
+    <line x1="270" y1="80" x2="400" y2="95"  stroke="#4ade80"/>
+    <line x1="400" y1="95" x2="520" y2="78"  stroke="#4ade80"/>
+    <line x1="520" y1="78" x2="650" y2="88"  stroke="#7c3aed"/>
+    <line x1="650" y1="88" x2="760" y2="72"  stroke="#a855f7"/>
+    <!-- cross links -->
+    <line x1="80"  y1="35" x2="140" y2="90"  stroke="#4ade80"/>
+    <line x1="330" y1="28" x2="270" y2="80"  stroke="#7c3aed"/>
+    <line x1="450" y1="65" x2="400" y2="95"  stroke="#a855f7"/>
+    <line x1="580" y1="30" x2="520" y2="78"  stroke="#4ade80"/>
+    <line x1="700" y1="58" x2="650" y2="88"  stroke="#7c3aed"/>
+    <line x1="820" y1="35" x2="760" y2="72"  stroke="#4ade80"/>
+  </g>
+  <!-- ANIMATED pulse wave (Option 2 radar sweep aesthetic) -->
+<path d="M0,65 Q100,30 200,65 Q300,100 400,65 Q500,30 600,65 Q700,100 800,65 Q850,45 900,65"
+     stroke="url(#pulseGrad)" stroke-width="1.8" fill="none" filter="url(#glowG)" opacity="0.95">
+<animate attributeName="d"
+   values="
+     M0,65 Q100,30 200,65 Q300,100 400,65 Q500,30 600,65 Q700,100 800,65 Q850,45 900,65;
+     M0,65 Q100,100 200,65 Q300,30 400,65 Q500,100 600,65 Q700,30 800,65 Q850,85 900,65;
+     M0,65 Q100,30 200,65 Q300,100 400,65 Q500,30 600,65 Q700,100 800,65 Q850,45 900,65"
+   dur="5s" repeatCount="indefinite"/>
+</path>
+<path d="M0,65 Q100,100 200,65 Q300,30 400,65 Q500,100 600,65 Q700,30 800,65 Q850,85 900,65"
+     stroke="url(#pulseGrad2)" stroke-width="1" fill="none" filter="url(#glowV)" opacity="0.7">
+<animate attributeName="d"
+   values="
+     M0,65 Q100,100 200,65 Q300,30 400,65 Q500,100 600,65 Q700,30 800,65 Q850,85 900,65;
+     M0,65 Q100,30 200,65 Q300,100 400,65 Q500,30 600,65 Q700,100 800,65 Q850,45 900,65;
+     M0,65 Q100,100 200,65 Q300,30 400,65 Q500,100 600,65 Q700,30 800,65 Q850,85 900,65"
+   dur="7s" repeatCount="indefinite"/>
+</path>
+  <!-- animated neural node pulses (glowing active nodes) -->
+  <circle cx="200" cy="55" r="4" fill="#4ade80" filter="url(#glowG)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="65" r="5" fill="#a855f7" filter="url(#glowV)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;3;5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="58" r="4" fill="#4ade80" filter="url(#glowG)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="330" cy="28" r="3" fill="#7c3aed" filter="url(#glowV)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="580" cy="30" r="3" fill="#4ade80" filter="url(#glowG)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <!-- shark-edge: sharp diagonal cut bottom border -->
+  <polyline points="0,126 860,126 900,115" stroke="#4ade80" stroke-width="1.2" fill="none" opacity="0.5" filter="url(#glowG)"/>
+  <polyline points="0,129 840,129 900,118" stroke="#7c3aed" stroke-width="0.7" fill="none" opacity="0.35" filter="url(#glowV)"/>
+  <!-- top scan line (radar sweep) -->
+  <line x1="0" y1="1.5" x2="900" y2="1.5" stroke="url(#pulseGrad)" stroke-width="1.5" opacity="0.7"/>
+  <!-- corner HUD brackets -->
+  <g filter="url(#glowG)" stroke="#4ade80" stroke-width="1.8" fill="none" opacity="0.9">
+    <polyline points="0,18 0,0 22,0"/>
+    <polyline points="878,0 900,0 900,18"/>
+  </g>
+  <g filter="url(#glowV)" stroke="#7c3aed" stroke-width="1.8" fill="none" opacity="0.9">
+    <polyline points="0,112 0,130 22,130"/>
+  </g>
+  <g filter="url(#glowG)" stroke="#4ade80" stroke-width="1.8" fill="none" opacity="0.9">
+    <polyline points="878,115 900,105"/>
+  </g>
+</svg>
 
 # Sona Rajarajan
 
