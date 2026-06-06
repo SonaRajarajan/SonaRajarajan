@@ -35,13 +35,13 @@
 ## 〔 About 〕
 
 ```yaml
-name        : Sona Rajarajan
-degree      : Integrated M.Tech — CSE with Business Analytics
-university  : VIT Chennai   |   reg: 22MIA1161   |   graduating: 2027
+Name        : Sona Rajarajan
+Degree      : Integrated M.Tech — CSE with Business Analytics
+University  : VIT Chennai   |   reg: 22MIA1161   |   graduating: 2027
 
-domains     : [ ML Systems · Data Engineering · Cloud Analytics · LLMOps · IoT/Edge AI ]
-currently   : [ LLMs · MLOps · Distributed Systems · Streaming Architectures ]
-open_to     : [ ML · Data Engineering · AI Infrastructure · Business Analytics Internships ]
+Domains     : [ ML Systems · Data Engineering · Cloud Analytics · LLMOps · IoT/Edge AI ]
+Currently   : [ LLMs · MLOps · Distributed Systems · Streaming Architectures ]
+Open_To     : [ ML · Data Engineering · AI Infrastructure · Business Analytics Internships ]
 ```
 
 I build end-to-end intelligent systems — from streaming pipelines and ML models to cloud-integrated analytics platforms and LLM-powered applications.
