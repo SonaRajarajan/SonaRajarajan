@@ -188,26 +188,15 @@ The focus is never just the model. It's the entire lifecycle:
 
 ---
 
-## 〔 GitHub Analytics 〕
-
+〔 GitHub Analytics 〕
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=4ade80"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&ring_color=a855f7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=c084fc&text_color=22d3ee"/>
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=tokyonight&hide_border=true&background=0A0F1E&ring=a855f7&fire=d946ef&currStreakLabel=a855f7&sideLabels=38bdf8&dates=38bdf8&currStreakNum=ffffff&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
-
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0A0F1E&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=22d3ee&dates=94a3b8&currStreakNum=22d3ee&sideNums=22d3ee&stroke=0a0f1e&border=0a0f1e&starting_year=2023"/>
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&theme=react-dark&bg_color=0a0f1e&hide_border=true&line=d946ef&point=38bdf8&color=a855f7&area=true&area_color=7c3aed"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0a0f1e&hide_border=true&line=a855f7&point=22d3ee&color=c084fc&area=true&area_color=581c87"/>
 </div>
-
----
-
-<div align="center">
 
 ## let's build something meaningful ⚡
 
