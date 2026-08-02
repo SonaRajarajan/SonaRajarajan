@@ -1,27 +1,16 @@
 <div align="center">
 
-<!-- Pacman Contribution Animation Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph.svg"/>
-  <img alt="Pacman Contribution Grid Animation" src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/output/pacman-contribution-graph.svg" width="100%"/>
-</picture>
-
-<br/><br/>
-
-# ⚡ Sona Rajarajan
-### `ML Engineer` · `Data Systems Architect` · `AI Infrastructure Builder`
+<!-- Futuristic Capsule Render Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:7928ca&height=200&section=header&text=Sona%20Rajarajan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Systems%20Architect%20%7C%20AI%20Infrastructure%20Builder&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/>
 
-<!-- Typing SVG Banner -->
-<a href="https://github.com/SonaRajarajan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Integrated+M.Tech+in+CSE+%2B+Business+Analytics+%40+VIT+Chennai;Building+Production-Ready+AI%2C+Agentic+RAG+%2B+Data+Pipelines;MLOps+•+Distributed+Systems+•+Cloud+Analytics+•+LLMOps;From+Raw+Data+Ingestion+to+Scalable+Cloud+Deployments" alt="Typing Banner" />
-</a>
+<!-- Verified Typing SVG Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Integrated+M.Tech+in+CSE+%2B+Business+Analytics+%40+VIT+Chennai;Building+Production-Ready+AI%2C+Agentic+RAG+%2B+Data+Pipelines;MLOps+%E2%80%A2+Distributed+Systems+%E2%80%A2+Cloud+Analytics;From+Raw+Data+Ingestion+to+Scalable+Cloud+Deployments" alt="Typing Banner" />
 
 <br/><br/>
 
-<!-- Quick Social Links & Stats -->
+<!-- Quick Links & Metrics -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
@@ -30,25 +19,22 @@
 <br/>
 
 <!-- Key Highlight Badges -->
-![](https://img.shields.io/badge/🎓_VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00f2fe)
-![](https://img.shields.io/badge/☁️_Infosys_×_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=38bef8)
-![](https://img.shields.io/badge/🏆_5×_Hackathon_Winner-National_Level-0f172a?style=flat-square&labelColor=0d1117&color=facc15)
-![](https://img.shields.io/badge/📜_Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=f472b6)
-![](https://img.shields.io/badge/⚡_Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
+![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00f2fe)
+![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=38bef8)
+![](https://img.shields.io/badge/5x_Hackathon_Winner-National_Level-0f172a?style=flat-square&labelColor=0d1117&color=facc15)
+![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=f472b6)
+![](https://img.shields.io/badge/Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
 
 </div>
 
 ---
 
-## 🛰️ System Architecture & Philosophy
+## System Architecture & Philosophy
 
 > *"Building end-to-end intelligent systems — from real-time streaming pipelines and agentic LLM architectures to distributed cloud platforms and clinical AI models."*
 
-```gantt
-┌───────────┐    ┌─────────────┐    ┌─────────────────┐    ┌────────────────────┐    ┌──────────────┐
-│  RAW DATA │ ──►│ RESTREAMING │ ──►│ AGENTIC RAG / ML│ ──►│ DISTRIBUTED LOCKS │ ──►│ REAL IMPACT  │
-│ INGESTION │    │  PIPELINE   │    │   INFERENCE     │    │ & CLOUD AUTOMATION │    │  AT SCALE    │
-└───────────┘    └─────────────┘    └─────────────────┘    └────────────────────┘    └──────────────┘
+```
+[ RAW DATA INGESTION ] ──► [ REAL-TIME STREAMING ] ──► [ AGENTIC RAG / ML ] ──► [ DISTRIBUTED LOCKS ] ──► [ SCALABLE IMPACT ]
 ```
 
 ```yaml
@@ -61,23 +47,23 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 ---
 
-## 📊 Performance Metrics Snapshot
+## Performance Metrics Snapshot
 
 <div align="center">
 
 | Public Repositories | Internships Completed | Research Initiatives | Patents Pending | National Hackathon Wins |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | **4** | **3** | **1** | **5×** |
+| **16** | **4** | **3** | **1** | **5x** |
 
 </div>
 
 ---
 
-## 🛠️ Complete Repository Portfolio
+## Complete Repository Portfolio
 
 <br/>
 
-### 🤖 AI, Machine Learning & Agentic Systems
+### AI, Machine Learning & Agentic Systems
 
 | Repository | Focus & Domain | Technical Architecture | Primary Stack |
 | :--- | :--- | :--- | :--- |
@@ -92,7 +78,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <br/>
 
-### 📊 Data Engineering, MLOps & Quantitative Systems
+### Data Engineering, MLOps & Quantitative Systems
 
 | Repository | Focus & Domain | Technical Architecture | Primary Stack |
 | :--- | :--- | :--- | :--- |
@@ -104,7 +90,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <br/>
 
-### 🏥 Clinical AI & Medical Imaging
+### Clinical AI & Medical Imaging
 
 | System / Repository | Focus & Domain | Technical Architecture | Primary Stack |
 | :--- | :--- | :--- | :--- |
@@ -115,7 +101,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <br/>
 
-### ☁️ Cloud Systems, Full-Stack & Academic Engineering
+### Cloud Systems, Full-Stack & Academic Engineering
 
 | Repository | Focus & Domain | Technical Architecture | Primary Stack |
 | :--- | :--- | :--- | :--- |
@@ -127,11 +113,11 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 ---
 
-## 💻 Technical Ecosystem
+## Technical Ecosystem
 
 <div align="center">
 
-### ⚡ Languages & Core Runtimes
+### Languages & Core Runtimes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -139,7 +125,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🧠 AI, ML & Agentic Frameworks
+### AI, ML & Agentic Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -147,7 +133,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ⚙️ Data Engineering, Cloud & Storage
+### Data Engineering, Cloud & Storage
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -159,31 +145,22 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 ---
 
-## 💼 Industry Experience
+## Industry Experience
 
 | Organization | Role | Key Contributions & Impact |
 | :--- | :--- | :--- |
-| ☁️ **Infosys × AWS** | Cloud Engineer Trainee | Architected and deployed end-to-end cloud ML pipelines on AWS cloud infrastructure |
-| 📊 **Infosys Springboard** | Data Science & Analytics Intern | Selected as **Top 5 Achiever** out of 500+ participants for outstanding data analytics solutions |
-| 📡 **GAO Tek Inc.** | Data Engineering & IoT Intern | Engineered real-time IoT data aggregation pipelines and robust backend microservices |
-| 📦 **MIB Industries** | Supply Chain Analytics Intern | Optimized logistics networks and inventory forecasting using quantitative analytics models |
+| Infosys x AWS | Cloud Engineer Trainee | Architected and deployed end-to-end cloud ML pipelines on AWS cloud infrastructure |
+| Infosys Springboard | Data Science & Analytics Intern | Selected as **Top 5 Achiever** out of 500+ participants for outstanding data analytics solutions |
+| GAO Tek Inc. | Data Engineering & IoT Intern | Engineered real-time IoT data aggregation pipelines and robust backend microservices |
+| MIB Industries | Supply Chain Analytics Intern | Optimized logistics networks and inventory forecasting using quantitative analytics models |
 
 ---
 
-## 📈 Activity & GitHub Analytics
+## GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonaRajarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&ring_color=7928ca" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaRajarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" width="49%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=00F2FE&sideNums=00F2FE&stroke=0d1117&border=0d1117&starting_year=2023" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=00f2fe&point=7928ca&color=00f2fe&area=true&area_color=161b22" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=00f2fe&point=7928ca&color=00f2fe&area=true&area_color=161b22" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -191,7 +168,7 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <div align="center">
 
-## ⚡ Let's Connect & Build Together
+## Connect & Collaborate
 
 Open to internship & engineering roles in:  
 `Machine Learning` · `Data Engineering` · `AI Infrastructure` · `Distributed Systems` · `Cloud Architecture`
