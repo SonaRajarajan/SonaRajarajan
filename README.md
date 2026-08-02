@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- Futuristic Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:7928ca&height=200&section=header&text=Sona%20Rajarajan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Systems%20Architect%20%7C%20AI%20Infrastructure%20Builder&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<!-- Snake Roaming Contribution Grid Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake Contribution Grid Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-<br/>
+<br/><br/>
 
 <!-- Verified Typing SVG Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Integrated+M.Tech+in+CSE+%2B+Business+Analytics+%40+VIT+Chennai;Building+Production-Ready+AI%2C+Agentic+RAG+%2B+Data+Pipelines;MLOps+%E2%80%A2+Distributed+Systems+%E2%80%A2+Cloud+Analytics;From+Raw+Data+Ingestion+to+Scalable+Cloud+Deployments" alt="Typing Banner" />
@@ -14,21 +18,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
+[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
 
 <br/>
 
 <!-- Key Highlight Badges -->
-![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00f2fe)
-![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=38bef8)
+![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00ff66)
+![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=ff007f)
 ![](https://img.shields.io/badge/5x_Hackathon_Winner-National_Level-0f172a?style=flat-square&labelColor=0d1117&color=facc15)
 ![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=f472b6)
 ![](https://img.shields.io/badge/Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
 
 <br/><br/>
 
-<!-- Static GitHub Streak Stats Card at Top -->
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&sideLabels=FFFFFF&dates=00F2FE&currStreakNum=00F2FE&sideNums=00FF88&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
+<!-- GitHub Streak Stats Card (Pink & Neon Green Theme) -->
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=00FF66&currStreakNum=00FF66&sideNums=FF007F&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -165,8 +169,8 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <div align="center">
 
-<!-- Vibrant Neon Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=ff007f&point=00f2fe&color=00f2fe&area=true&area_color=7928ca" width="100%" alt="Vibrant Activity Graph" />
+<!-- Pink and Neon Green Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=ff007f&point=00ff66&color=00ff66&area=true&area_color=ff007f" width="100%" alt="Pink and Neon Green Activity Graph" />
 
 </div>
 
