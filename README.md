@@ -25,6 +25,11 @@
 ![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=f472b6)
 ![](https://img.shields.io/badge/Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
 
+<br/><br/>
+
+<!-- Static GitHub Streak Stats Card at Top -->
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&sideLabels=FFFFFF&dates=00F2FE&currStreakNum=00F2FE&sideNums=00FF88&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
+
 </div>
 
 ---
@@ -160,7 +165,8 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=00f2fe&point=7928ca&color=00f2fe&area=true&area_color=161b22" width="100%" alt="Activity Graph" />
+<!-- Vibrant Neon Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=ff007f&point=00f2fe&color=00f2fe&area=true&area_color=7928ca" width="100%" alt="Vibrant Activity Graph" />
 
 </div>
 
