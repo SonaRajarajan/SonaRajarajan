@@ -9,9 +9,13 @@
 
 <br/><br/>
 
-<!-- Display Name Above Typing Banner -->
-# Sona Rajarajan
-### `ML Engineer` · `Data Systems Architect` · `AI Infrastructure Builder`
+<!-- High-Contrast Name Header Above Typing Banner -->
+<h1 align="center">
+  <font color="#00F2FE">Sona</font> <font color="#FF007F">Rajarajan</font>
+</h1>
+<h3 align="center">
+  <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
+</h3>
 
 <br/>
 
