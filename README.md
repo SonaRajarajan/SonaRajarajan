@@ -9,10 +9,9 @@
 
 <br/><br/>
 
-<!-- High-Contrast Name Header Above Typing Banner -->
-<h1 align="center">
-  <font color="#00F2FE">Sona</font> <font color="#FF007F">Rajarajan</font>
-</h1>
+<!-- High-Contrast Name Banner -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg" width="85%" alt="SONA RAJARAJAN" />
+
 <h3 align="center">
   <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
 </h3>
@@ -32,14 +31,18 @@
 
 <br/>
 
-<!-- Key Highlight Badges (Light Blue & Pink Palette) -->
-![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00f2fe)
-![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=38bef8)
-![](https://img.shields.io/badge/5x_Hackathon_Winner-National_Level-0f172a?style=flat-square&labelColor=0d1117&color=facc15)
-![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=ff007f)
-![](https://img.shields.io/badge/Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
+<!-- Clean & High-Contrast Highlight Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/VIT%20Chennai-Integrated%20M.Tech%20BA-00F2FE?style=for-the-badge&logoColor=white&labelColor=161B22" alt="VIT Chennai" />
+  <img src="https://img.shields.io/badge/Infosys%20x%20AWS-Cloud%20Engineer%20Trained-38BDF8?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Infosys AWS" />
+  <img src="https://img.shields.io/badge/5x%20Hackathon%20Winner-National%20Level-FACC15?style=for-the-badge&logoColor=black&labelColor=161B22" alt="Hackathon Winner" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Patent%20Under%20Review-AI%20Gamified%20Platform-FF007F?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Patent" />
+  <img src="https://img.shields.io/badge/Graduating-2027-A78BFA?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Graduating 2027" />
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- Simulated 23-Day Streak Stats Card -->
 <img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/streak_stats.svg" width="90%" alt="GitHub Streak Stats" />
