@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60" fill="none">
   <defs>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00F2FE"/>
-      <stop offset="50%" stop-color="#FF007F"/>
-      <stop offset="100%" stop-color="#00F2FE"/>
-    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FF0055" flood-opacity="0.8"/>
+    </filter>
   </defs>
-  <text x="400" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="42" fill="url(#nameGrad)" letter-spacing="2">SONA RAJARAJAN</text>
+  <text x="400" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="42" fill="#FF0055" filter="url(#glow)" letter-spacing="2">SONA RAJARAJAN</text>
 </svg>

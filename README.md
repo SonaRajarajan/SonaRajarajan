@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<!-- High-Contrast Name Banner -->
+<!-- Neon Pinkish-Red Name Banner -->
 <img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg" width="85%" alt="SONA RAJARAJAN" />
 
 <h3 align="center">
@@ -27,19 +27,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
+[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=ff0055&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
 
 <br/>
 
-<!-- Clean & High-Contrast Highlight Badges -->
+<!-- Single Solid-Color Highlight Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/VIT%20Chennai-Integrated%20M.Tech%20BA-00F2FE?style=for-the-badge&logoColor=white&labelColor=161B22" alt="VIT Chennai" />
-  <img src="https://img.shields.io/badge/Infosys%20x%20AWS-Cloud%20Engineer%20Trained-38BDF8?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Infosys AWS" />
-  <img src="https://img.shields.io/badge/5x%20Hackathon%20Winner-National%20Level-FACC15?style=for-the-badge&logoColor=black&labelColor=161B22" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/VIT%20Chennai%20--%20Integrated%20M.Tech-00F2FE?style=for-the-badge&labelColor=00F2FE" alt="VIT Chennai - Integrated M.Tech" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/5x%20Hackathon%20Winner%20--%20National%20Level-FACC15?style=for-the-badge&labelColor=FACC15&color=FACC15" alt="5x Hackathon Winner - National Level" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Patent%20Under%20Review-AI%20Gamified%20Platform-FF007F?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Patent" />
-  <img src="https://img.shields.io/badge/Graduating-2027-A78BFA?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Graduating 2027" />
+  <img src="https://img.shields.io/badge/Patent%20Filed-FF007F?style=for-the-badge&labelColor=FF007F" alt="Patent Filed" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Graduating%202027-A78BFA?style=for-the-badge&labelColor=A78BFA" alt="Graduating 2027" />
 </p>
 
 <br/>
