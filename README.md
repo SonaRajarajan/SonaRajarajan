@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- Official Ticketing Regular Name Banner -->
-<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=ticketing_official_v4" width="85%" alt="Sona Rajarajan" />
+<!-- Official Born2bSporty FS Name Banner -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=born2bsporty_official_v5" width="85%" alt="Sona Rajarajan" />
 
 <h3 align="center">
   <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
