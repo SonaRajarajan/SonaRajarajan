@@ -18,21 +18,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-rajarajan-186445278/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonaRajarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonavrajarajan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
+[![Profile Views](https://komarev.com/ghpvc/?username=SonaRajarajan&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SonaRajarajan)
 
 <br/>
 
-<!-- Key Highlight Badges -->
-![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00ff66)
-![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=ff007f)
+<!-- Key Highlight Badges (Light Blue & Pink Palette) -->
+![](https://img.shields.io/badge/VIT_Chennai-Integrated_M.Tech_BA-0f172a?style=flat-square&labelColor=0d1117&color=00f2fe)
+![](https://img.shields.io/badge/Infosys_x_AWS-Cloud_Engineer_Trained-0f172a?style=flat-square&labelColor=0d1117&color=38bef8)
 ![](https://img.shields.io/badge/5x_Hackathon_Winner-National_Level-0f172a?style=flat-square&labelColor=0d1117&color=facc15)
-![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=f472b6)
+![](https://img.shields.io/badge/Patent_Under_Review-AI_Gamified_Platform-0f172a?style=flat-square&labelColor=0d1117&color=ff007f)
 ![](https://img.shields.io/badge/Graduating-2027-0f172a?style=flat-square&labelColor=0d1117&color=a78bfa)
 
 <br/><br/>
 
-<!-- GitHub Streak Stats Card (Pink & Neon Green Theme) -->
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=00FF66&currStreakNum=00FF66&sideNums=FF007F&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
+<!-- GitHub Streak Stats Card (Light Blue & Pink Theme) -->
+<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&sideLabels=FFFFFF&dates=00F2FE&currStreakNum=FF007F&sideNums=00F2FE&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -169,8 +169,8 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <div align="center">
 
-<!-- Pink and Neon Green Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=ff007f&point=00ff66&color=00ff66&area=true&area_color=ff007f" width="100%" alt="Pink and Neon Green Activity Graph" />
+<!-- Light Blue and Pink Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=00f2fe&point=ff007f&color=00f2fe&area=true&area_color=7928ca" width="100%" alt="Light Blue and Pink Activity Graph" />
 
 </div>
 
