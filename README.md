@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- Official Born2bSporty FS BOLD Large Name Banner -->
-<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=born2bsporty_bold_large_v6" width="95%" alt="Sona Rajarajan" />
+<!-- Official Google Font Jersey 10 Name Banner -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=jersey10_official_v7" width="95%" alt="Sona Rajarajan" />
 
 <h3 align="center">
   <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
