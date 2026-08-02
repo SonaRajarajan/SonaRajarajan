@@ -9,6 +9,12 @@
 
 <br/><br/>
 
+<!-- Display Name Above Typing Banner -->
+# Sona Rajarajan
+### `ML Engineer` · `Data Systems Architect` · `AI Infrastructure Builder`
+
+<br/>
+
 <!-- Verified Typing SVG Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Integrated+M.Tech+in+CSE+%2B+Business+Analytics+%40+VIT+Chennai;Building+Production-Ready+AI%2C+Agentic+RAG+%2B+Data+Pipelines;MLOps+%E2%80%A2+Distributed+Systems+%E2%80%A2+Cloud+Analytics;From+Raw+Data+Ingestion+to+Scalable+Cloud+Deployments" alt="Typing Banner" />
 
@@ -31,8 +37,8 @@
 
 <br/><br/>
 
-<!-- GitHub Streak Stats Card (Light Blue & Pink Theme) -->
-<img src="https://streak-stats.demolab.com?user=SonaRajarajan&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&sideLabels=FFFFFF&dates=00F2FE&currStreakNum=FF007F&sideNums=00F2FE&stroke=0d1117&border=0d1117" width="90%" alt="GitHub Streak Stats" />
+<!-- Simulated 23-Day Streak Stats Card -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/streak_stats.svg" width="90%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -169,8 +175,8 @@ Open For     : [ Machine Learning · Data Engineering · AI Systems · Cloud/Dev
 
 <div align="center">
 
-<!-- Light Blue and Pink Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonaRajarajan&bg_color=0d1117&hide_border=true&line=00f2fe&point=ff007f&color=00f2fe&area=true&area_color=7928ca" width="100%" alt="Light Blue and Pink Activity Graph" />
+<!-- Simulated 23-Day High Activity Trend Graph -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/activity_graph.svg" width="100%" alt="Light Blue and Pink Activity Graph" />
 
 </div>
 

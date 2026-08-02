@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" fill="none">
+  <rect width="800" height="240" rx="12" fill="#0D1117"/>
+  
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 16px; fill: #00F2FE; }
+    .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 12px; fill: #8B949E; }
+  </style>
+
+  <!-- Title -->
+  <text x="30" y="35" class="title">GitHub Contribution Activity Trend</text>
+  <text x="770" y="35" text-anchor="end" class="axis-label" fill="#FF007F" font-weight="700">23-Day Active Streak Peak</text>
+
+  <!-- Grid Lines -->
+  <line x1="30" y1="60" x2="770" y2="60" stroke="#21262D" stroke-dasharray="3 3"/>
+  <line x1="30" y1="105" x2="770" y2="105" stroke="#21262D" stroke-dasharray="3 3"/>
+  <line x1="30" y1="150" x2="770" y2="150" stroke="#21262D" stroke-dasharray="3 3"/>
+  <line x1="30" y1="195" x2="770" y2="195" stroke="#30363D"/>
+
+  <!-- Gradient Area Definition -->
+  <defs>
+    <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0.4"/>
+      <stop offset="70%" stop-color="#7928CA" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="50%" stop-color="#FF007F"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Area Fill under Curve -->
+  <path d="M 30 180 C 100 170, 150 140, 220 120 C 290 100, 340 160, 410 110 C 480 60, 540 50, 610 65 C 680 80, 730 65, 770 55 L 770 195 L 30 195 Z" fill="url(#areaGradient)"/>
+
+  <!-- High-Activity Glowing Curve -->
+  <path d="M 30 180 C 100 170, 150 140, 220 120 C 290 100, 340 160, 410 110 C 480 60, 540 50, 610 65 C 680 80, 730 65, 770 55" stroke="url(#lineGradient)" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- Data Nodes -->
+  <circle cx="30" cy="180" r="5" fill="#00F2FE" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="130" cy="148" r="5" fill="#00F2FE" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="220" cy="120" r="5" fill="#00F2FE" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="310" cy="140" r="5" fill="#FF007F" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="410" cy="110" r="5" fill="#FF007F" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="510" cy="55" r="6" fill="#FF007F" stroke="#FFFFFF" stroke-width="2"/>
+  <circle cx="610" cy="65" r="5" fill="#00F2FE" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="710" cy="60" r="5" fill="#00F2FE" stroke="#0D1117" stroke-width="2"/>
+  <circle cx="770" cy="55" r="6" fill="#00F2FE" stroke="#FFFFFF" stroke-width="2"/>
+
+  <!-- Month X-Axis Labels -->
+  <text x="30" y="218" class="axis-label">Jan</text>
+  <text x="130" y="218" class="axis-label">Feb</text>
+  <text x="230" y="218" class="axis-label">Mar</text>
+  <text x="330" y="218" class="axis-label">Apr</text>
+  <text x="430" y="218" class="axis-label">May</text>
+  <text x="530" y="218" class="axis-label">Jun</text>
+  <text x="630" y="218" class="axis-label">Jul</text>
+  <text x="740" y="218" class="axis-label">Aug</text>
+</svg>
