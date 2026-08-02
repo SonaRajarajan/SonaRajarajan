@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- Ticketing Regular Name Banner -->
-<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=ticketing_v3" width="85%" alt="Sona Rajarajan" />
+<!-- Official Ticketing Regular Name Banner -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=ticketing_official_v4" width="85%" alt="Sona Rajarajan" />
 
 <h3 align="center">
   <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
