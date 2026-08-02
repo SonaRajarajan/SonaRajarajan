@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- Neon Pinkish-Red Name Banner -->
-<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg" width="85%" alt="SONA RAJARAJAN" />
+<!-- Bedstead Bold Name Banner -->
+<img src="https://raw.githubusercontent.com/SonaRajarajan/SonaRajarajan/main/assets/name_title.svg?v=bedstead_v2" width="85%" alt="Sona Rajarajan" />
 
 <h3 align="center">
   <code>ML Engineer</code> &nbsp;·&nbsp; <code>Data Systems Architect</code> &nbsp;·&nbsp; <code>AI Infrastructure Builder</code>
