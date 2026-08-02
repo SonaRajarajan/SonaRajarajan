@@ -217,7 +217,7 @@ Open to internship opportunities in:
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  © 2025 Sona Rajarajan  ·  VIT Chennai  ·  Building the future, one commit at a time
+  © 2026 Sona Rajarajan  ·  VIT Chennai  ·  Building the future, one commit at a time
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
