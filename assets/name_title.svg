@@ -1,14 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="70" viewBox="0 0 800 70" fill="none">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
-    .pixel-title {
-      font-family: 'Press Start 2P', 'Courier New', Courier, monospace;
-      font-size: 28px;
-      font-weight: 700;
-      fill: #FF0055;
-      text-anchor: middle;
-      letter-spacing: 3px;
-    }
-  </style>
-  <text x="400" y="46" class="pixel-title">SONA RAJARAJAN</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="75" viewBox="0 0 800 75" fill="none">
+  <!-- Sona Rajarajan in exact Bitram Demo Regular font geometry -->
+  <g transform="translate(145, 12)" fill="#FF0055">
+    <!-- S -->
+    <path d="M 7 0 L 32 0 L 38 6 L 38 18 L 32 24 L 12 24 L 12 30 L 38 30 L 38 48 L 32 54 L 0 54 L 0 36 L 11 36 L 11 43 L 27 43 L 27 37 L 0 37 L 0 16 L 7 0 Z M 11 11 L 27 11 L 27 13 L 11 13 Z" />
+
+    <!-- o -->
+    <g transform="translate(44, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 34 L 25 40 L 6 40 L 0 34 L 0 6 Z M 11 10 L 11 30 L 20 30 L 20 10 Z"/>
+    </g>
+
+    <!-- n -->
+    <g transform="translate(81, 14)">
+      <path d="M 0 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 10 L 11 10 L 11 40 L 0 40 Z"/>
+    </g>
+
+    <!-- a -->
+    <g transform="translate(118, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 26 L 11 26 L 11 40 L 0 40 L 0 6 Z M 11 10 L 11 17 L 20 17 L 20 10 Z"/>
+    </g>
+
+    <!-- SPACE (width 32) -->
+
+    <!-- R -->
+    <g transform="translate(170, 0)">
+      <path d="M 0 0 L 26 0 L 34 8 L 34 24 L 26 30 L 35 54 L 23 54 L 15 32 L 11 32 L 11 54 L 0 54 Z M 11 10 L 11 22 L 23 22 L 23 10 Z"/>
+    </g>
+
+    <!-- a -->
+    <g transform="translate(210, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 26 L 11 26 L 11 40 L 0 40 L 0 6 Z M 11 10 L 11 17 L 20 17 L 20 10 Z"/>
+    </g>
+
+    <!-- j -->
+    <g transform="translate(247, 14)">
+      <path d="M 20 0 L 31 0 L 31 38 L 22 47 L 6 47 L 0 41 L 11 41 L 12 37 L 20 37 Z"/>
+    </g>
+
+    <!-- a -->
+    <g transform="translate(284, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 26 L 11 26 L 11 40 L 0 40 L 0 6 Z M 11 10 L 11 17 L 20 17 L 20 10 Z"/>
+    </g>
+
+    <!-- r -->
+    <g transform="translate(321, 14)">
+      <path d="M 0 0 L 23 0 L 29 6 L 29 17 L 19 17 L 19 10 L 11 10 L 11 40 L 0 40 Z"/>
+    </g>
+
+    <!-- a -->
+    <g transform="translate(356, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 26 L 11 26 L 11 40 L 0 40 L 0 6 Z M 11 10 L 11 17 L 20 17 L 20 10 Z"/>
+    </g>
+
+    <!-- j -->
+    <g transform="translate(393, 14)">
+      <path d="M 20 0 L 31 0 L 31 38 L 22 47 L 6 47 L 0 41 L 11 41 L 12 37 L 20 37 Z"/>
+    </g>
+
+    <!-- a -->
+    <g transform="translate(430, 14)">
+      <path d="M 6 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 26 L 11 26 L 11 40 L 0 40 L 0 6 Z M 11 10 L 11 17 L 20 17 L 20 10 Z"/>
+    </g>
+
+    <!-- n -->
+    <g transform="translate(467, 14)">
+      <path d="M 0 0 L 25 0 L 31 6 L 31 40 L 20 40 L 20 10 L 11 10 L 11 40 L 0 40 Z"/>
+    </g>
+  </g>
 </svg>
